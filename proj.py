@@ -5,6 +5,7 @@ import simpy
 simpy: pip install simpy
 msgpack: conda install -c anaconda msgpack-python
 """
+#oi
 
 qtdClientes = 10
 taxaChegada = 1.0 / 6.0        #Inverso do intervalo médio entre chegadas em minutos
