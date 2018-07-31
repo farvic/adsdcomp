@@ -1,6 +1,8 @@
 """
 Avaliação de Desempenho de Sistemas
 Aluno: Victor Fonseca Araujo
+
+Simulador de Fila M/M/1
 """
 
 import random
