@@ -17,14 +17,18 @@ def entrada(env):
         env.process(saida(env, name))
 
 def saida(env, name):
-    #momentoChegada = env.now
+    momentoChegada = env.now
     print('%7.2f\t Chegada\t %s' % (env.now, name))
     atendReq = Servidor1.request()
     yield atendReq
-    print('%7.2f\t Atendimento\t %s' % (env.now, name))
+    momentoAtendimento = env.now
+    tempoEspera = momentoAtendimento - momentoChegada
+    print('%7.2f\t Atendimento\t %s \t Tempo de Espera:%7.2f' % (env.now, name,tempoEspera))
     yield env.timeout(random.expovariate(taxaServico))
     Servidor1.release(atendReq)
-    print('%7.2f\t Partida\t %s' % (env.now, name))
+    momentoPartida = env.now
+    tempoAtendimento = momentoPartida - momentoAtendimento
+    print('%7.2f\t Partida\t %s \t Tempo de Atendimento:%7.2f' % (env.now, name,tempoAtendimento))
      
 
 def intensidadeTrafego(lambd,mi):
