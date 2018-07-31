@@ -1,7 +1,14 @@
+"""
+Avaliação de Desempenho de Sistemas
+Aluno: Victor Fonseca Araujo
+"""
+
 import random
 import simpy
 import numpy as np
 import statistics as st
+import matplotlib.pyplot as plt
+
 """
 simpy: pip install simpy
 msgpack: conda install -c anaconda msgpack-python
@@ -10,7 +17,7 @@ msgpack: conda install -c anaconda msgpack-python
 tamanhoPopulacao = 2
 taxaEntrada = 1.0 / 2.0        #Inverso do intervalo médio entre chegadas em minutos
 taxaServico = 1.0 / 3.0    #Inverso do tempo de médio de atendimento em minutos
-numeroTestes = 2
+numeroTestes = 100
 
 momentoChegada = [0]*100
 momentoAtendimento = [0]*100
@@ -26,18 +33,20 @@ def saida(env, name,i):
     global momentoChegada
     global momentoAtendimento
     global momentoPartida
+    tempoEsperaCliente = [0]*100
+    tempoAtendimentoCliente = [0]*100
     momentoChegada[i] = env.now
     print('%7.2f\t Chegada\t %s' % (env.now, name))
     atendReq = Servidor1.request()
     yield atendReq
     momentoAtendimento[i] = env.now
-    tempoEsperaCliente = momentoAtendimento[i] - momentoChegada[i]
-    print('%7.2f\t Atendimento\t %s \t Tempo de Espera:%7.2f' % (env.now, name,tempoEsperaCliente))
+    tempoEsperaCliente[i] = momentoAtendimento[i] - momentoChegada[i]
+    print('%7.2f\t Atendimento\t %s \t Tempo de Espera:%7.2f' % (env.now, name,tempoEsperaCliente[i]))
     yield env.timeout(random.expovariate(taxaServico))
     Servidor1.release(atendReq)
     momentoPartida[i] = env.now
-    tempoAtendimentoCliente = momentoPartida[i] - momentoAtendimento[i]
-    print('%7.2f\t Partida\t %s \t Tempo de Atendimento:%7.2f' % (env.now, name,tempoAtendimentoCliente))
+    tempoAtendimentoCliente[i] = momentoPartida[i] - momentoAtendimento[i]
+    print('%7.2f\t Partida\t %s \t Tempo de Atendimento:%7.2f' % (env.now, name,tempoAtendimentoCliente[i]))
     
     global tempoEspera
     global tempoAtendimento
@@ -47,8 +56,8 @@ def saida(env, name,i):
         tempoOcioso = tempoOcioso + momentoAtendimento[i] - momentoPartida[i-1]
 
     
-    tempoEspera = tempoEspera + tempoEsperaCliente
-    tempoAtendimento = tempoAtendimento + tempoAtendimentoCliente
+    tempoEspera = tempoEspera + tempoEsperaCliente[i]
+    tempoAtendimento = tempoAtendimento + tempoAtendimentoCliente[i]
      
 
 def intensidadeTrafego(lambd,mi):
@@ -146,3 +155,8 @@ print('Tempo médio na fila:%7.2f \t Intervalo de confiança: (%7.2f,%7.2f)' % (
 print('Tempo médio em atendimento: %7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % (tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
 print('Tempo ocioso médio entre clientes:%7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % ((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
 print('Tempo ocioso médio entre clientes:%7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % ((tempoOciosoSistema/numeroTestes),(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)))
+
+plt.title('Tempo de espera médio')
+#plt.plot(auxiliarDesvioEsperaMedia)
+#plt.errorbar(auxiliarDesvioEsperaMedia,yerr=[-1.69,1.69])
+plt.show()
