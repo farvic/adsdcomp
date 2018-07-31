@@ -1,6 +1,7 @@
 import random
 import simpy
 import numpy as np
+import statistics as st
 """
 simpy: pip install simpy
 msgpack: conda install -c anaconda msgpack-python
@@ -71,29 +72,6 @@ def tempoMedioEspera(ro,Er):
     return ro*Er
 
 #intervaloConfianca = 1.96
-
-"""
-txEntrada (R[i])
-
-tempoAtendimento (S[i])
-
-momentoChegada[i] (A[i]) = momentoChegada[i-1] + R[i]
-
-inicioAtendimento[i] (B[i]) = max{C[i-1];A[i]}
-
-terminoAtendimento[i] (C[i]) = inicioAtendimento[i] + tempoAtendimento[i]
-
-tempoFila[i] (W[i]) = inicioAtendimento[i] - momentoChegada[i]
-
-tempoSistema[i] (U[i]) = terminoAtendimento[i] - momentoChegada[i]
-
-tempoOciosoServidor[i] (O[i]) = inicioAtendimento[i] - terminoAtendimento[i-1]
-
-mediaTemporal (w barrado) = sum(tempoFila[i])/numeroClientes
-
-"""
-
-
  
 print('\nM/M/1\n')
 print('Tempo\t', 'Evento\t\t', 'Cliente\n')
@@ -112,11 +90,17 @@ tempoAtendimento = 0
 tempoFila = 0
 tempoAtendimentoSistema = 0
 tempoOciosoTotal = 0
-
+tempoOciosoSistema = 0
 vetor = [0]*100
+
+auxiliarDesvioEsperaMedia = [0]*numeroTestes
+auxiliarDesvioAtendimentoMedio = [0]*numeroTestes
+auxiliarDesvioOciosidadeAmostra = [0]*numeroTestes
+auxiliarDesvioOciosidadeMedia  = [0]*numeroTestes
 
 for i in range(numeroTestes):
     tempoOcioso = 0
+    tempoEspera = 0
     env = simpy.Environment()
     Servidor1 = simpy.Resource(env, capacity=1)
     env.process(entrada(env))
@@ -124,10 +108,18 @@ for i in range(numeroTestes):
     print("\n")
     tempoEsperaMedioAmostral = tempoEspera/tamanhoPopulacao
     tempoAtendimentoMedioAmostral = tempoAtendimento/tamanhoPopulacao
+    tempoOciosoMedio = tempoOcioso/tamanhoPopulacao
+    
+    auxiliarDesvioEsperaMedia[i] = tempoEsperaMedioAmostral
+    auxiliarDesvioAtendimentoMedio[i] = tempoEsperaMedioAmostral
+    auxiliarDesvioOciosidadeAmostra[i] = tempoOcioso
+    auxiliarDesvioOciosidadeMedia[i] = tempoOciosoMedio
+    
     print('Tempo de espera médio da amostra: %7.2f \nTempo de atendimento médio da amostra: %7.2f' % (tempoEsperaMedioAmostral,tempoAtendimentoMedioAmostral))
     print('Tempo ocioso da amostra:%7.2f' % tempoOcioso)
-    tempoOciosoMedio = tempoOcioso/tamanhoPopulacao
+
     print('Tempo ocioso médio da amostra:%7.2f\n' % tempoOciosoMedio)
+    tempoOciosoSistema = tempoOciosoSistema + tempoOcioso
     tempoOciosoTotal = tempoOciosoTotal + tempoOciosoMedio
     tempoFila = tempoFila + tempoEsperaMedioAmostral
     tempoAtendimentoSistema = tempoAtendimentoSistema + tempoAtendimentoMedioAmostral
@@ -135,6 +127,22 @@ for i in range(numeroTestes):
 tempoMedioFila = tempoFila/numeroTestes
 tempoMedioAtendimento = tempoAtendimentoSistema/numeroTestes
 
+desvioMedioFila = st.stdev(auxiliarDesvioEsperaMedia)
+desvioAtendimentoMedio = st.stdev(auxiliarDesvioAtendimentoMedio)
+desvioOciosidadeAmostral = st.stdev(auxiliarDesvioOciosidadeAmostra)
+desvioOciosidadeMedia = st.stdev(auxiliarDesvioOciosidadeMedia)
+
+dMF = 1.96*desvioMedioFila/np.sqrt(numeroTestes)
+#(tempoMedioFila - dMF, tempoMedioFila + dMF)
+dAM = 1.96*desvioAtendimentoMedio/np.sqrt(numeroTestes)
+#(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)
+dOA = 1.96*desvioOciosidadeAmostral/np.sqrt(numeroTestes)
+#(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)
+dOM = 1.96*desvioOciosidadeMedia/np.sqrt(numeroTestes)
+#(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)
+
 print('\n')
-print('Tempo médio na fila:%7.2f \nTempo médio em atendimento: %7.2f' % (tempoMedioFila,tempoMedioAtendimento))
-print('Tempo ocioso médio:%7.2f' % (tempoOciosoTotal/numeroTestes))
+print('Tempo médio na fila:%7.2f \t Intervalo de confiança: (%7.2f,%7.2f)' % (tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
+print('Tempo médio em atendimento: %7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % (tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
+print('Tempo ocioso médio entre clientes:%7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % ((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
+print('Tempo ocioso médio entre clientes:%7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % ((tempoOciosoSistema/numeroTestes),(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)))
