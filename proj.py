@@ -15,6 +15,17 @@ import matplotlib.pyplot as plt
 simpy: pip install simpy
 msgpack: conda install -c anaconda msgpack-python
 """
+clienteArquivo = np.genfromtxt("cliente1.txt",usecols=(0,1,2),skip_header=1,dtype=int)
+
+time = clienteArquivo[:,0]
+inputKbps = clienteArquivo[:,1]
+outputKbps = clienteArquivo[:,2]
+
+inputTotal = np.sum(inputKbps)
+outputTotal = np.sum(outputKbps)
+
+
+
 
 tamanhoPopulacao = 10
 taxaEntrada = 1.0 / 2.0        #Inverso do intervalo médio entre chegadas em minutos
