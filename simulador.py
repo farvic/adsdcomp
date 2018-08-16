@@ -20,8 +20,12 @@ clienteArquivo = np.genfromtxt("cliente1.txt",usecols=(0,1,2),skip_header=1,dtyp
 time = clienteArquivo[:,0]
 """inputKbps = clienteArquivo[:,1]
 outputKbps = clienteArquivo[:,2]"""
+"""
+O inputKbps e output kbps 
 
-txEntrada =[0]*2
+"""
+
+txEntrada =[0]*4
 inputKbps= clienteArquivo[:,1]
 outputKbps= clienteArquivo[:,2]
 tamanhoLista = len(inputKbps)
@@ -29,13 +33,23 @@ tamanhoLista = len(inputKbps)
 inputTotal = np.sum(inputKbps)
 outputTotal = np.sum(outputKbps)
 
+inputIperf = 0
+outputIperf = 0
+
+for i in range(117):
+    inputIperf = inputIperf + inputKbps[i+8]
+    outputIperf = outputIperf + outputKbps[i+8]
+    
+
 txEntrada[0] = inputTotal/tamanhoLista
 txEntrada[1] = outputTotal/tamanhoLista
+txEntrada[2] = inputIperf/117
+txEntrada[3] = outputIperf/117
 
 tamanhoPopulacao = 10
 #taxaEntrada = 1.0 / 2.0        #Inverso do intervalo médio entre chegadas em minutos
-#taxa serviço é 100Mbps
-taxaServico = 1.0 / 3.0    #Inverso do tempo de médio de atendimento em minutos
+#taxa serviço é 100Mbps = 100000 Kbps tráfego entre índice 8 e 125
+taxaServico = 100000    #Inverso do tempo de médio de atendimento em minutos
 numeroTestes = 100
 
 momentoChegada = [0]*numeroTestes
@@ -56,17 +70,17 @@ for taxaEntrada in txEntrada:
         tempoEsperaCliente = [0]*numeroTestes
         tempoAtendimentoCliente = [0]*numeroTestes
         momentoChegada[i] = env.now
-        print('%7.2f\t Chegada\t %s' % (env.now, name))
+        print('%f\t Chegada\t %s' % (env.now, name))
         atendReq = Servidor1.request()
         yield atendReq
         momentoAtendimento[i] = env.now
         tempoEsperaCliente[i] = momentoAtendimento[i] - momentoChegada[i]
-        print('%7.2f\t Atendimento\t %s \t Tempo de Espera:%7.2f' % (env.now, name,tempoEsperaCliente[i]))
+        print('%f\t Atendimento\t %s \t Tempo de Espera:%f' % (env.now, name,tempoEsperaCliente[i]))
         yield env.timeout(random.expovariate(taxaServico))
         Servidor1.release(atendReq)
         momentoPartida[i] = env.now
         tempoAtendimentoCliente[i] = momentoPartida[i] - momentoAtendimento[i]
-        print('%7.2f\t Partida\t %s \t Tempo de Atendimento:%7.2f' % (env.now, name,tempoAtendimentoCliente[i]))
+        print('%f\t Partida\t %s \t Tempo de Atendimento:%f' % (env.now, name,tempoAtendimentoCliente[i]))
         
         global tempoEspera
         global tempoAtendimento
@@ -145,9 +159,9 @@ for taxaEntrada in txEntrada:
         auxiliarDesvioOciosidadeAmostra[i] = tempoOcioso
         auxiliarDesvioOciosidadeMedia[i] = tempoOciosoMedio
         
-        print('Tempo de espera médio da amostra: %7.2f \nTempo de atendimento médio da amostra: %7.2f' % (tempoEsperaMedioAmostral,tempoAtendimentoMedioAmostral))
-        print('Tempo ocioso da amostra:%7.2f' % tempoOcioso)
-        print('Tempo ocioso médio da amostra:%7.2f\n' % tempoOciosoMedio)
+        print('Tempo de espera médio da amostra: %f \nTempo de atendimento médio da amostra: %7.2f' % (tempoEsperaMedioAmostral,tempoAtendimentoMedioAmostral))
+        print('Tempo ocioso da amostra:%f' % tempoOcioso)
+        print('Tempo ocioso médio da amostra:%f\n' % tempoOciosoMedio)
         tempoOciosoSistema = tempoOciosoSistema + tempoOcioso
         tempoOciosoTotal = tempoOciosoTotal + tempoOciosoMedio
         tempoFila = tempoFila + tempoEsperaMedioAmostral
@@ -171,10 +185,10 @@ for taxaEntrada in txEntrada:
     #(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)
     
     print('\n')
-    print('Tempo médio na fila:%7.2f \t Intervalo de confiança: (%7.2f,%7.2f)' % (tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
-    print('Tempo médio em atendimento: %7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % (tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
-    print('Tempo ocioso médio entre clientes:%7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % ((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
-    print('Tempo ocioso médio do sistema:%7.2f\t Intervalo de confiança:(%7.2f,%7.2f)' % ((tempoOciosoSistema/numeroTestes),(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)))
+    print('Tempo médio na fila:%f \t Intervalo de confiança: (%f,%f)' % (tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
+    print('Tempo médio em atendimento: %f\t Intervalo de confiança:(%f,%f)' % (tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
+    print('Tempo ocioso médio entre clientes:%f\t Intervalo de confiança:(%f,%f)' % ((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
+    print('Tempo ocioso médio do sistema:%f\t Intervalo de confiança:(%f,%f)' % ((tempoOciosoSistema/numeroTestes),(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)))
     
     #plt.title('Tempo de espera médio')
     #plt.plot(auxiliarDesvioEsperaMedia)
@@ -182,3 +196,5 @@ for taxaEntrada in txEntrada:
     #plt.errorbar(x,auxiliarDesvioEsperaMedia,yerr=1.69,fmt='o')
     #plt.savefig('EsperaMedia.png',dpi=300)
     #plt.show()
+    
+    print(txEntrada)
