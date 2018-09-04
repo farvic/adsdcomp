@@ -21,12 +21,7 @@ arq = open('salvar.txt','w')
 
 
 time = clienteArquivo[:,0]
-"""inputKbps = clienteArquivo[:,1]
-outputKbps = clienteArquivo[:,2]"""
-"""
-O inputKbps e output kbps 
 
-"""
 fila = 0
 
 txEntrada =[0]*6
@@ -80,11 +75,10 @@ for taxaEntrada in txEntrada:
         fila = fila + 1
         for i in range(tamanhoPopulacao):
             yield env.timeout(random.expovariate(taxaEntrada))
-            name = 'Cliente %d' % (i+1)
-            env.process(saida(env, name,i,fila))
+            env.process(saida(env, i,fila))
             clientesFila[i] = fila
     
-    def saida(env, name,i,fila):
+    def saida(env,i,fila):
         fila = fila - 1
         global momentoChegada
         global momentoAtendimento
@@ -92,21 +86,15 @@ for taxaEntrada in txEntrada:
         tempoEsperaCliente = [0]*tamanhoPopulacao
         tempoAtendimentoCliente = [0]*tamanhoPopulacao
         momentoChegada[i] = env.now
-        #print('%f\t Chegada\t %s' % (env.now, name))
-        #arq.write('{:f}\t Chegada \t {!s}\n'.format(env.now,name))
         atendReq = Servidor1.request()
         yield atendReq
         momentoAtendimento[i] = env.now
         tempoEsperaCliente[i] = momentoAtendimento[i] - momentoChegada[i]
-        #print('%f\t Atendimento\t %s \t Tempo de Espera:%f' % (env.now, name,tempoEsperaCliente[i]))
-        #arq.write('{:f}\t Atendimento\t {!s} \t Tempo de Espera: {:f}\n'.format(env.now, name,tempoEsperaCliente[i]))
         yield env.timeout(random.expovariate(taxaServico))
         Servidor1.release(atendReq)
         momentoPartida[i] = env.now
         tempoAtendimentoCliente[i] = momentoPartida[i] - momentoAtendimento[i]
-        #print('%f\t Partida\t %s \t Tempo de Atendimento:%f' % (env.now, name,tempoAtendimentoCliente[i]))
-        #arq.write('{:f}\t Partida\t {!s} \t Tempo de Atendimento: {:f}\n'.format(env.now, name,tempoAtendimentoCliente[i]))
-        
+                
         global tempoEspera
         global tempoAtendimento
         global tempoOcioso
@@ -117,44 +105,14 @@ for taxaEntrada in txEntrada:
         
         tempoEspera = tempoEspera + tempoEsperaCliente[i]
         tempoAtendimento = tempoAtendimento + tempoAtendimentoCliente[i]
-         
-    """
-    def intensidadeTrafego(lambd,mi):
-        return (lambd/mi)
-        
-    def probabilidadeNenhumJob(ro):
-        return (1-ro)
-    
-    def numeroMedioJobs(ro):
-        nMedioJobsSistema = ro/(1-ro)
-        nMedioJobFila = ro*nMedioJobsSistema
-        return nMedioJobsSistema,nMedioJobsSistema/(1-ro),nMedioJobFila
-    
-    def probabilidadeNJobsSistema(ro,n,p0):
-        return np.power(ro,n)*p0    
-    
-    def tempoMedioResposta(mi,ro):
-        return (1/mi)/(1-ro)
-    
-    def tempoMedioEspera(ro,Er):
-        return ro*Er
-    """
+
     #intervaloConfianca = 1.96
      
-    #print('\nM/M/1\n')
-    #print('Tempo\t', 'Evento\t\t', 'Cliente\n')
     arq.write('\t\tSimulador M/M/1\n')
     arq.write('Tempo\t\t Evento\t\t Cliente\n\n')
     
     y = 0
-    """
-    ro = intensidadeTrafego(taxaEntrada,taxaServico)
-    p0 = probabilidadeNenhumJob(ro)
-    pn = probabilidadeNJobsSistema(ro,tamanhoPopulacao,p0)
-    En,VarEn,EnQueue = numeroMedioJobs(ro)
-    Er = tempoMedioResposta(taxaServico,ro)
-    Ew = tempoMedioEspera(ro,Er)
-    """
+
     tempoEspera = 0
     tempoAtendimento = 0
     tempoFila = 0
@@ -185,12 +143,7 @@ for taxaEntrada in txEntrada:
         auxiliarDesvioAtendimentoMedio[i] = tempoAtendimentoMedioAmostral
         auxiliarDesvioOciosidadeAmostra[i] = tempoOcioso
         auxiliarDesvioOciosidadeMedia[i] = tempoOciosoMedio
-        
-        """print('Tempo de espera médio da amostra: %f \nTempo de atendimento médio da amostra: %7.2f' % (tempoEsperaMedioAmostral,tempoAtendimentoMedioAmostral))
-        print('Tempo ocioso da amostra:%f' % tempoOcioso)
-        print('Tempo ocioso médio da amostra:%f\n' % tempoOciosoMedio)"""
-
-        
+                
         arq.write('Tempo de Espera Médio da Amostra: {:f}\nTempo de Atendimento Médio da Amostra: {:.2f}\n'.format(tempoEsperaMedioAmostral,tempoAtendimentoMedioAmostral))
         arq.write('Tempo Ocioso da Amostra: {:f} '.format(tempoOcioso))
         arq.write('Tempo Ocioso Médio da Amostra: {:f}\n\n'.format(tempoOciosoMedio))
@@ -209,36 +162,17 @@ for taxaEntrada in txEntrada:
     desvioOciosidadeMedia = st.stdev(auxiliarDesvioOciosidadeMedia)
     
     dMF = 1.96*desvioMedioFila/np.sqrt(numeroTestes)
-    #(tempoMedioFila - dMF, tempoMedioFila + dMF)
     dAM = 1.96*desvioAtendimentoMedio/np.sqrt(numeroTestes)
-    #(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)
     dOA = 1.96*desvioOciosidadeAmostral/np.sqrt(numeroTestes)
-    #(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)
     dOM = 1.96*desvioOciosidadeMedia/np.sqrt(numeroTestes)
-    #(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)
     
-    """
-    print('\n')
-    print('Tempo médio na fila:%f \t Intervalo de confiança: (%f,%f)' % (tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
-    print('Tempo médio em atendimento: %f\t Intervalo de confiança:(%f,%f)' % (tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
-    print('Tempo ocioso médio entre clientes:%f\t Intervalo de confiança:(%f,%f)' % ((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
-    print('Tempo ocioso médio do sistema:%f\t Intervalo de confiança:(%f,%f)' % ((tempoOciosoSistema/numeroTestes),(tempoOciosoSistema/numeroTestes - dOM), (tempoOciosoSistema/numeroTestes + dOM)))
-    """
     arq.write('\n')
     arq.write('Tempo médio na fila: {:f} \t Intervalo de confiança: ({:f},{:f})'.format(tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
     arq.write('Tempo médio em atendimento: {:f}\t Intervalo de confiança: ({:f},{:f})'.format(tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
     arq.write('Tempo ocioso médio entre clientes: {:f}\t Intervalo de confiança:({:f},{:f})\n\n'.format((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
-    
-    #plt.title('Tempo de espera médio')
-    #plt.plot(auxiliarDesvioEsperaMedia)
-    #x = np.arange(0,numeroTestes,1)
-    #plt.errorbar(x,auxiliarDesvioEsperaMedia,yerr=1.69,fmt='o')
-    #plt.savefig('EsperaMedia.png',dpi=300)
-    #plt.show()
-    #print(clientesFila)
+
     
 print(txEntrada)
-arq.write('Lambda em kbps')
 arq.write('Lambda inputTotal: {:f} / Lambda outputTotal: {:f}\n'.format(txEntrada[0],txEntrada[1]))
 arq.write('Lambda inputDuranteIperf: {:f} / Lambda outputDuranteIperf: {:f}\n'.format(txEntrada[2],txEntrada[3]))
 arq.write('Lambda inputSemIperf: {:f} / Lambda outputSemIperf: {:f}'.format(txEntrada[4],txEntrada[5]))
