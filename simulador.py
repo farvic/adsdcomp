@@ -28,7 +28,7 @@ O inputKbps e output kbps
 
 """
 
-txEntrada =[0]*4
+txEntrada =[0]*6
 inputKbps= clienteArquivo[:,1]
 outputKbps= clienteArquivo[:,2]
 tamanhoLista = len(inputKbps)
@@ -42,14 +42,27 @@ outputIperf = 0
 for i in range(116):
     inputIperf = inputIperf + inputKbps[i+58]
     outputIperf = outputIperf + outputKbps[i+58]
-    
 
+outputx = 0
+inputx = 0
+
+for i in range(58):
+    inputx = inputx+inputKbps[i]
+    outputx = outputx+outputKbps[i]    
+
+for i in range(63):
+    inputx = inputx+inputKbps[i+174]
+    outputx = outputx+outputKbps[i+174]
+    
 txEntrada[0] = inputTotal/tamanhoLista
 txEntrada[1] = outputTotal/tamanhoLista
 txEntrada[2] = inputIperf/116
 txEntrada[3] = outputIperf/116
+txEntrada[4] = inputx/121
+txEntrada[5] = outputx/121
 
-tamanhoPopulacao = 100
+
+tamanhoPopulacao = 10
 #taxaEntrada = 1.0 / 2.0        #Inverso do intervalo médio entre chegadas em minutos
 #taxa serviço é 100Mbps = 100000 Kbps tráfego entre índice 8 e 125
 taxaServico = 100000    #Inverso do tempo de médio de atendimento em minutos
