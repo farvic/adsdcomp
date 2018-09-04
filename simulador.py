@@ -49,7 +49,7 @@ txEntrada[1] = outputTotal/tamanhoLista
 txEntrada[2] = inputIperf/116
 txEntrada[3] = outputIperf/116
 
-tamanhoPopulacao = 10
+tamanhoPopulacao = 100
 #taxaEntrada = 1.0 / 2.0        #Inverso do intervalo médio entre chegadas em minutos
 #taxa serviço é 100Mbps = 100000 Kbps tráfego entre índice 8 e 125
 taxaServico = 100000    #Inverso do tempo de médio de atendimento em minutos
@@ -210,13 +210,13 @@ for taxaEntrada in txEntrada:
     arq.write('Tempo médio em atendimento: {:f}\t Intervalo de confiança: ({:f},{:f})'.format(tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
     arq.write('Tempo ocioso médio entre clientes: {:f}\t Intervalo de confiança:({:f},{:f})\n\n'.format((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
     
-    plt.title('Tempo de espera médio')
-    plt.plot(auxiliarDesvioEsperaMedia)
-    x = np.arange(0,numeroTestes,1)
-    plt.errorbar(x,auxiliarDesvioEsperaMedia,yerr=1.69,fmt='o')
-    plt.savefig('EsperaMedia.png',dpi=300)
-    plt.show()
+    #plt.title('Tempo de espera médio')
+    #plt.plot(auxiliarDesvioEsperaMedia)
+    #x = np.arange(0,numeroTestes,1)
+    #plt.errorbar(x,auxiliarDesvioEsperaMedia,yerr=1.69,fmt='o')
+    #plt.savefig('EsperaMedia.png',dpi=300)
+    #plt.show()
     
-    print(txEntrada)
+print(txEntrada)
 
 arq.close()
