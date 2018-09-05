@@ -18,6 +18,7 @@ msgpack: conda install -c anaconda msgpack-python
 """
 clienteArquivo = np.genfromtxt("captura1.txt",usecols=(0,1,2),skip_header=1,dtype=int)
 arq = open('salvar.txt','w')
+arqv = open('resultadoSimulacao.txt','w')
 
 
 time = clienteArquivo[:,0]
@@ -53,16 +54,15 @@ for i in range(63):
     
 txEntrada[0] = inputTotal/tamanhoLista
 txEntrada[1] = outputTotal/tamanhoLista
-txEntrada[2] = inputIperf/116
-txEntrada[3] = outputIperf/116
+txEntrada[2] = inputIperf/117
+txEntrada[3] = outputIperf/117
 txEntrada[4] = inputx/121
 txEntrada[5] = outputx/121
 
 
 tamanhoPopulacao = 100
-#taxaEntrada = 1.0 / 2.0        #Inverso do intervalo médio entre chegadas em minutos
 #taxa serviço é 100Mbps = 100000 Kbps tráfego entre índice 8 e 125
-taxaServico = 100000    #Inverso do tempo de médio de atendimento em minutos
+taxaServico = 100000
 numeroTestes = 100
 
 momentoChegada = [0]*tamanhoPopulacao
@@ -109,7 +109,7 @@ for taxaEntrada in txEntrada:
     #intervaloConfianca = 1.96
      
     arq.write('\t\tSimulador M/M/1\n')
-    arq.write('Tempo\t\t Evento\t\t Cliente\n\n')
+    #arq.write('Tempo\t\t Evento\t\t Cliente\n\n')
     
     y = 0
 
@@ -167,9 +167,13 @@ for taxaEntrada in txEntrada:
     dOM = 1.96*desvioOciosidadeMedia/np.sqrt(numeroTestes)
     
     arq.write('\n')
-    arq.write('Tempo médio na fila: {:f} \t Intervalo de confiança: ({:f},{:f})'.format(tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
-    arq.write('Tempo médio em atendimento: {:f}\t Intervalo de confiança: ({:f},{:f})'.format(tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
+    arq.write('Tempo médio na fila: {:f} \t Intervalo de confiança: ({:f},{:f})\n'.format(tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
+    arq.write('Tempo médio em atendimento: {:f}\t Intervalo de confiança: ({:f},{:f})\n'.format(tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
     arq.write('Tempo ocioso médio entre clientes: {:f}\t Intervalo de confiança:({:f},{:f})\n\n'.format((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
+    
+    arqv.write('Tempo médio na fila: {:f} \t Intervalo de confiança: ({:f},{:f})\n'.format(tempoMedioFila,(tempoMedioFila - dMF), (tempoMedioFila + dMF)))
+    arqv.write('Tempo médio em atendimento: {:f}\t Intervalo de confiança: ({:f},{:f})\n'.format(tempoMedioAtendimento,(tempoMedioAtendimento - dAM), (tempoMedioAtendimento + dAM)))
+    arqv.write('Tempo ocioso médio entre clientes: {:f}\t Intervalo de confiança:({:f},{:f})\n\n'.format((tempoOciosoTotal/numeroTestes),(tempoOciosoTotal/numeroTestes - dOA), (tempoOciosoTotal/numeroTestes + dOA)))
 
     
 print(txEntrada)
@@ -178,3 +182,4 @@ arq.write('Lambda inputDuranteIperf: {:f} / Lambda outputDuranteIperf: {:f}\n'.f
 arq.write('Lambda inputSemIperf: {:f} / Lambda outputSemIperf: {:f}'.format(txEntrada[4],txEntrada[5]))
 
 arq.close()
+arqv.close()

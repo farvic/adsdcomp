@@ -1,0 +1,24 @@
+Tempo médio na fila: 0.000011 	 Intervalo de confiança: (0.000009,0.000012)
+Tempo médio em atendimento: 0.000511	 Intervalo de confiança: (0.000454,0.000569)
+Tempo ocioso médio entre clientes: 0.000010	 Intervalo de confiança:(-0.000036,0.000056)
+
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000497	 Intervalo de confiança: (0.000441,0.000553)
+Tempo ocioso médio entre clientes: 0.004034	 Intervalo de confiança:(-0.003341,0.011408)
+
+Tempo médio na fila: 0.000070 	 Intervalo de confiança: (0.000062,0.000079)
+Tempo médio em atendimento: 0.000507	 Intervalo de confiança: (0.000450,0.000563)
+Tempo ocioso médio entre clientes: 0.000001	 Intervalo de confiança:(-0.000014,0.000016)
+
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000503	 Intervalo de confiança: (0.000447,0.000560)
+Tempo ocioso médio entre clientes: 0.004526	 Intervalo de confiança:(-0.004269,0.013320)
+
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000504	 Intervalo de confiança: (0.000448,0.000560)
+Tempo ocioso médio entre clientes: 0.015380	 Intervalo de confiança:(-0.012381,0.043140)
+
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000497	 Intervalo de confiança: (0.000440,0.000553)
+Tempo ocioso médio entre clientes: 0.003817	 Intervalo de confiança:(-0.003458,0.011091)
+

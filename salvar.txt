@@ -1,350 +1,123 @@
 		Simulador M/M/1
-Tempo		 Evento		 Cliente
-
-
-Tempo de Espera Médio da Amostra: 0.000005
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001143 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000015
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000794 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001109 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000003
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000951 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000721 Tempo Ocioso Médio da Amostra: 0.000007
-
-
-Tempo de Espera Médio da Amostra: 0.000018
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000899 Tempo Ocioso Médio da Amostra: 0.000009
-
 
 Tempo de Espera Médio da Amostra: 0.000011
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000864 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000012
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001006 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000012
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001021 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000013
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000762 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000004
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001144 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000015
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000478 Tempo Ocioso Médio da Amostra: 0.000005
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000673 Tempo Ocioso Médio da Amostra: 0.000007
-
-
-Tempo de Espera Médio da Amostra: 0.000012
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001020 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000926 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001062 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001039 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001039 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000012
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000929 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001183 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000012
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000778 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000756 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000986 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000014
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001053 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000858 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000957 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001038 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000900 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000014
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000760 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000028
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000961 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001080 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000011
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000823 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000005
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001324 Tempo Ocioso Médio da Amostra: 0.000013
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000944 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001255 Tempo Ocioso Médio da Amostra: 0.000013
-
-
-Tempo de Espera Médio da Amostra: 0.000013
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000931 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001113 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000022
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000834 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001131 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001072 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000005
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001222 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001023 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000009
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000840 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000003
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001424 Tempo Ocioso Médio da Amostra: 0.000014
+Tempo Ocioso da Amostra: 0.000850 Tempo Ocioso Médio da Amostra: 0.000008
 
 
 Tempo de Espera Médio da Amostra: 0.000020
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000831 Tempo Ocioso Médio da Amostra: 0.000008
+Tempo Ocioso da Amostra: 0.000673 Tempo Ocioso Médio da Amostra: 0.000007
 
 
-Tempo de Espera Médio da Amostra: 0.000015
+Tempo de Espera Médio da Amostra: 0.000010
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000764 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000970 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000017
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000884 Tempo Ocioso Médio da Amostra: 0.000009
+Tempo Ocioso da Amostra: 0.001019 Tempo Ocioso Médio da Amostra: 0.000010
 
 
 Tempo de Espera Médio da Amostra: 0.000011
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000955 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000990 Tempo Ocioso Médio da Amostra: 0.000010
+Tempo Ocioso da Amostra: 0.000670 Tempo Ocioso Médio da Amostra: 0.000007
 
 
 Tempo de Espera Médio da Amostra: 0.000009
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000714 Tempo Ocioso Médio da Amostra: 0.000007
+Tempo Ocioso da Amostra: 0.001283 Tempo Ocioso Médio da Amostra: 0.000013
 
 
-Tempo de Espera Médio da Amostra: 0.000013
+Tempo de Espera Médio da Amostra: 0.000015
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000905 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001015 Tempo Ocioso Médio da Amostra: 0.000010
+Tempo Ocioso da Amostra: 0.001035 Tempo Ocioso Médio da Amostra: 0.000010
 
 
 Tempo de Espera Médio da Amostra: 0.000007
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000883 Tempo Ocioso Médio da Amostra: 0.000009
+Tempo Ocioso da Amostra: 0.001214 Tempo Ocioso Médio da Amostra: 0.000012
 
 
-Tempo de Espera Médio da Amostra: 0.000010
+Tempo de Espera Médio da Amostra: 0.000011
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001167 Tempo Ocioso Médio da Amostra: 0.000012
+Tempo Ocioso da Amostra: 0.000694 Tempo Ocioso Médio da Amostra: 0.000007
 
 
-Tempo de Espera Médio da Amostra: 0.000010
+Tempo de Espera Médio da Amostra: 0.000008
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001285 Tempo Ocioso Médio da Amostra: 0.000013
+Tempo Ocioso da Amostra: 0.000982 Tempo Ocioso Médio da Amostra: 0.000010
 
 
-Tempo de Espera Médio da Amostra: 0.000010
+Tempo de Espera Médio da Amostra: 0.000003
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000992 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001193 Tempo Ocioso Médio da Amostra: 0.000012
+Tempo Ocioso da Amostra: 0.001615 Tempo Ocioso Médio da Amostra: 0.000016
 
 
 Tempo de Espera Médio da Amostra: 0.000005
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001172 Tempo Ocioso Médio da Amostra: 0.000012
+Tempo Ocioso da Amostra: 0.001437 Tempo Ocioso Médio da Amostra: 0.000014
 
 
-Tempo de Espera Médio da Amostra: 0.000012
+Tempo de Espera Médio da Amostra: 0.000007
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001183 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000002
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001342 Tempo Ocioso Médio da Amostra: 0.000013
-
-
-Tempo de Espera Médio da Amostra: 0.000013
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001082 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000004
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001692 Tempo Ocioso Médio da Amostra: 0.000017
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000748 Tempo Ocioso Médio da Amostra: 0.000007
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001160 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000689 Tempo Ocioso Médio da Amostra: 0.000007
-
-
-Tempo de Espera Médio da Amostra: 0.000004
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000981 Tempo Ocioso Médio da Amostra: 0.000010
+Tempo Ocioso da Amostra: 0.000882 Tempo Ocioso Médio da Amostra: 0.000009
 
 
 Tempo de Espera Médio da Amostra: 0.000009
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000909 Tempo Ocioso Médio da Amostra: 0.000009
+Tempo Ocioso da Amostra: 0.000778 Tempo Ocioso Médio da Amostra: 0.000008
 
 
-Tempo de Espera Médio da Amostra: 0.000004
+Tempo de Espera Médio da Amostra: 0.000008
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001362 Tempo Ocioso Médio da Amostra: 0.000014
+Tempo Ocioso da Amostra: 0.000745 Tempo Ocioso Médio da Amostra: 0.000007
+
+
+Tempo de Espera Médio da Amostra: 0.000009
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001237 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000006
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001005 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000011
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000854 Tempo Ocioso Médio da Amostra: 0.000009
+
+
+Tempo de Espera Médio da Amostra: 0.000009
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000824 Tempo Ocioso Médio da Amostra: 0.000008
+
+
+Tempo de Espera Médio da Amostra: 0.000008
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000784 Tempo Ocioso Médio da Amostra: 0.000008
+
+
+Tempo de Espera Médio da Amostra: 0.000005
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001204 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000006
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000922 Tempo Ocioso Médio da Amostra: 0.000009
+
+
+Tempo de Espera Médio da Amostra: 0.000006
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001165 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000020
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000802 Tempo Ocioso Médio da Amostra: 0.000008
+
+
+Tempo de Espera Médio da Amostra: 0.000015
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001180 Tempo Ocioso Médio da Amostra: 0.000012
 
 
 Tempo de Espera Médio da Amostra: 0.000009
@@ -352,2688 +125,2915 @@ Tempo de Atendimento Médio da Amostra: 0.00
 Tempo Ocioso da Amostra: 0.001028 Tempo Ocioso Médio da Amostra: 0.000010
 
 
-Tempo de Espera Médio da Amostra: 0.000005
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001160 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000003
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001341 Tempo Ocioso Médio da Amostra: 0.000013
-
-
-Tempo de Espera Médio da Amostra: 0.000003
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001143 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000009
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001095 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001136 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000004
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000928 Tempo Ocioso Médio da Amostra: 0.000009
-
-
 Tempo de Espera Médio da Amostra: 0.000010
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001158 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000013
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000932 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000009
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001053 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001088 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000865 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000011
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000818 Tempo Ocioso Médio da Amostra: 0.000008
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000951 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000005
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001210 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000014
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000985 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001100 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000012
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000943 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000004
 Tempo de Atendimento Médio da Amostra: 0.00
 Tempo Ocioso da Amostra: 0.000995 Tempo Ocioso Médio da Amostra: 0.000010
 
 
 Tempo de Espera Médio da Amostra: 0.000005
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001147 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000866 Tempo Ocioso Médio da Amostra: 0.000009
+Tempo Ocioso da Amostra: 0.001198 Tempo Ocioso Médio da Amostra: 0.000012
 
 
 Tempo de Espera Médio da Amostra: 0.000007
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001223 Tempo Ocioso Médio da Amostra: 0.000012
+Tempo Ocioso da Amostra: 0.001182 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000010
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001040 Tempo Ocioso Médio da Amostra: 0.000010
 
 
 Tempo de Espera Médio da Amostra: 0.000009
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001025 Tempo Ocioso Médio da Amostra: 0.000010
+Tempo Ocioso da Amostra: 0.000700 Tempo Ocioso Médio da Amostra: 0.000007
 
 
-Tempo de Espera Médio da Amostra: 0.000008
+Tempo de Espera Médio da Amostra: 0.000011
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000940 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000005
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001183 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000013
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000767 Tempo Ocioso Médio da Amostra: 0.000008
+Tempo Ocioso da Amostra: 0.001022 Tempo Ocioso Médio da Amostra: 0.000010
 
 
 Tempo de Espera Médio da Amostra: 0.000006
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000866 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001186 Tempo Ocioso Médio da Amostra: 0.000012
-
-
-Tempo de Espera Médio da Amostra: 0.000008
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.001066 Tempo Ocioso Médio da Amostra: 0.000011
-
-
-Tempo de Espera Médio da Amostra: 0.000006
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000870 Tempo Ocioso Médio da Amostra: 0.000009
-
-
-Tempo de Espera Médio da Amostra: 0.000007
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000950 Tempo Ocioso Médio da Amostra: 0.000010
-
-
-Tempo médio na fila: 0.000009 	 Intervalo de confiança: (0.000008,0.000010)Tempo médio em atendimento: 0.000502	 Intervalo de confiança: (0.000446,0.000558)Tempo ocioso médio entre clientes: 0.000010	 Intervalo de confiança:(-0.000026,0.000046)
-
-		Simulador M/M/1
-Tempo		 Evento		 Cliente
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.352501 Tempo Ocioso Médio da Amostra: 0.003525
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.325016 Tempo Ocioso Médio da Amostra: 0.003250
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.442728 Tempo Ocioso Médio da Amostra: 0.004427
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.382419 Tempo Ocioso Médio da Amostra: 0.003824
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.400317 Tempo Ocioso Médio da Amostra: 0.004003
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.412970 Tempo Ocioso Médio da Amostra: 0.004130
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.384020 Tempo Ocioso Médio da Amostra: 0.003840
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.347704 Tempo Ocioso Médio da Amostra: 0.003477
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.446250 Tempo Ocioso Médio da Amostra: 0.004462
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.409145 Tempo Ocioso Médio da Amostra: 0.004091
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.393675 Tempo Ocioso Médio da Amostra: 0.003937
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.421296 Tempo Ocioso Médio da Amostra: 0.004213
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.460911 Tempo Ocioso Médio da Amostra: 0.004609
-
-
-Tempo de Espera Médio da Amostra: 0.000001
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.390464 Tempo Ocioso Médio da Amostra: 0.003905
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.415643 Tempo Ocioso Médio da Amostra: 0.004156
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.367387 Tempo Ocioso Médio da Amostra: 0.003674
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.428187 Tempo Ocioso Médio da Amostra: 0.004282
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.397321 Tempo Ocioso Médio da Amostra: 0.003973
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.393329 Tempo Ocioso Médio da Amostra: 0.003933
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.394892 Tempo Ocioso Médio da Amostra: 0.003949
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.384855 Tempo Ocioso Médio da Amostra: 0.003849
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.389083 Tempo Ocioso Médio da Amostra: 0.003891
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.419682 Tempo Ocioso Médio da Amostra: 0.004197
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.356829 Tempo Ocioso Médio da Amostra: 0.003568
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.350567 Tempo Ocioso Médio da Amostra: 0.003506
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.439657 Tempo Ocioso Médio da Amostra: 0.004397
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.353868 Tempo Ocioso Médio da Amostra: 0.003539
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.526857 Tempo Ocioso Médio da Amostra: 0.005269
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.437731 Tempo Ocioso Médio da Amostra: 0.004377
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.414389 Tempo Ocioso Médio da Amostra: 0.004144
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.470994 Tempo Ocioso Médio da Amostra: 0.004710
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.453661 Tempo Ocioso Médio da Amostra: 0.004537
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.403184 Tempo Ocioso Médio da Amostra: 0.004032
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.451448 Tempo Ocioso Médio da Amostra: 0.004514
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.417291 Tempo Ocioso Médio da Amostra: 0.004173
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.469957 Tempo Ocioso Médio da Amostra: 0.004700
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.430004 Tempo Ocioso Médio da Amostra: 0.004300
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.378392 Tempo Ocioso Médio da Amostra: 0.003784
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.381849 Tempo Ocioso Médio da Amostra: 0.003818
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.390481 Tempo Ocioso Médio da Amostra: 0.003905
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.412496 Tempo Ocioso Médio da Amostra: 0.004125
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.432455 Tempo Ocioso Médio da Amostra: 0.004325
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.385284 Tempo Ocioso Médio da Amostra: 0.003853
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.458201 Tempo Ocioso Médio da Amostra: 0.004582
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.477950 Tempo Ocioso Médio da Amostra: 0.004779
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.388803 Tempo Ocioso Médio da Amostra: 0.003888
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.438937 Tempo Ocioso Médio da Amostra: 0.004389
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.389575 Tempo Ocioso Médio da Amostra: 0.003896
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.410584 Tempo Ocioso Médio da Amostra: 0.004106
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.344379 Tempo Ocioso Médio da Amostra: 0.003444
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.452765 Tempo Ocioso Médio da Amostra: 0.004528
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.430175 Tempo Ocioso Médio da Amostra: 0.004302
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.452199 Tempo Ocioso Médio da Amostra: 0.004522
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.467048 Tempo Ocioso Médio da Amostra: 0.004670
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.475721 Tempo Ocioso Médio da Amostra: 0.004757
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.412899 Tempo Ocioso Médio da Amostra: 0.004129
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.462778 Tempo Ocioso Médio da Amostra: 0.004628
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.383149 Tempo Ocioso Médio da Amostra: 0.003831
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.471084 Tempo Ocioso Médio da Amostra: 0.004711
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.413323 Tempo Ocioso Médio da Amostra: 0.004133
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.417581 Tempo Ocioso Médio da Amostra: 0.004176
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.354931 Tempo Ocioso Médio da Amostra: 0.003549
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.380973 Tempo Ocioso Médio da Amostra: 0.003810
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.310654 Tempo Ocioso Médio da Amostra: 0.003107
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.514072 Tempo Ocioso Médio da Amostra: 0.005141
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.461992 Tempo Ocioso Médio da Amostra: 0.004620
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.494138 Tempo Ocioso Médio da Amostra: 0.004941
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.406032 Tempo Ocioso Médio da Amostra: 0.004060
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.386309 Tempo Ocioso Médio da Amostra: 0.003863
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.399103 Tempo Ocioso Médio da Amostra: 0.003991
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.351783 Tempo Ocioso Médio da Amostra: 0.003518
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.471464 Tempo Ocioso Médio da Amostra: 0.004715
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.420571 Tempo Ocioso Médio da Amostra: 0.004206
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.461796 Tempo Ocioso Médio da Amostra: 0.004618
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.394616 Tempo Ocioso Médio da Amostra: 0.003946
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.375588 Tempo Ocioso Médio da Amostra: 0.003756
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.341468 Tempo Ocioso Médio da Amostra: 0.003415
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.416606 Tempo Ocioso Médio da Amostra: 0.004166
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.492976 Tempo Ocioso Médio da Amostra: 0.004930
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.329019 Tempo Ocioso Médio da Amostra: 0.003290
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.391763 Tempo Ocioso Médio da Amostra: 0.003918
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.458020 Tempo Ocioso Médio da Amostra: 0.004580
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.388163 Tempo Ocioso Médio da Amostra: 0.003882
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.418669 Tempo Ocioso Médio da Amostra: 0.004187
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.383773 Tempo Ocioso Médio da Amostra: 0.003838
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.423385 Tempo Ocioso Médio da Amostra: 0.004234
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.485421 Tempo Ocioso Médio da Amostra: 0.004854
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.401369 Tempo Ocioso Médio da Amostra: 0.004014
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.373147 Tempo Ocioso Médio da Amostra: 0.003731
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.386526 Tempo Ocioso Médio da Amostra: 0.003865
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.325617 Tempo Ocioso Médio da Amostra: 0.003256
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.469728 Tempo Ocioso Médio da Amostra: 0.004697
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.457352 Tempo Ocioso Médio da Amostra: 0.004574
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.459857 Tempo Ocioso Médio da Amostra: 0.004599
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.412991 Tempo Ocioso Médio da Amostra: 0.004130
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.465205 Tempo Ocioso Médio da Amostra: 0.004652
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.361431 Tempo Ocioso Médio da Amostra: 0.003614
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.390935 Tempo Ocioso Médio da Amostra: 0.003909
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.366869 Tempo Ocioso Médio da Amostra: 0.003669
-
-
-Tempo de Espera Médio da Amostra: 0.000000
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.461307 Tempo Ocioso Médio da Amostra: 0.004613
-
-
-Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)Tempo médio em atendimento: 0.000509	 Intervalo de confiança: (0.000452,0.000566)Tempo ocioso médio entre clientes: 0.004131	 Intervalo de confiança:(-0.004639,0.012901)
-
-		Simulador M/M/1
-Tempo		 Evento		 Cliente
-
-
-Tempo de Espera Médio da Amostra: 0.000084
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000010 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000064
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000081 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000068
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000028 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000140
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000015 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000036
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000114 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000050
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000131 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000034
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000058 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000017
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000196 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000088
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000079 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000029
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000094 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000107
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000107 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000147
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000088
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000024 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000015
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000231 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000088
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000004 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000079
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000087 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000100
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000114 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000016
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000228 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000084
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000078 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000092
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000030 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000027
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000237 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000084
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000032 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000195
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000024 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000061
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000162 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000034
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000129 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000056
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000180 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000130
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000102
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000010 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.000904 Tempo Ocioso Médio da Amostra: 0.000009
 
 
 Tempo de Espera Médio da Amostra: 0.000031
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000065 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000799 Tempo Ocioso Médio da Amostra: 0.000008
 
 
-Tempo de Espera Médio da Amostra: 0.000015
+Tempo de Espera Médio da Amostra: 0.000007
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000233 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.000825 Tempo Ocioso Médio da Amostra: 0.000008
 
 
-Tempo de Espera Médio da Amostra: 0.000046
+Tempo de Espera Médio da Amostra: 0.000014
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000093 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000167
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000004 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000036
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000063 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000038
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000132 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000042
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000241 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000017
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000323 Tempo Ocioso Médio da Amostra: 0.000003
-
-
-Tempo de Espera Médio da Amostra: 0.000141
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000012 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000015
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000239 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000152
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000089 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000027
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000110 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000083
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000145 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000053
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000084 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000045
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000017 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000136
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000004 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000042
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000115 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000050
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000143 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000041
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000150 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000126
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000014 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000036
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000058 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000096
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000028 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000142
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000088
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000007 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000026
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000188 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000066
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000028 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000097
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000058 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000099
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000026 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000025
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000166 Tempo Ocioso Médio da Amostra: 0.000002
-
-
-Tempo de Espera Médio da Amostra: 0.000107
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000075 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000052
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000041 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000063
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000092 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000099
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000078 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000032
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000141 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000040
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000055 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000155
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000026 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.001012 Tempo Ocioso Médio da Amostra: 0.000010
 
 
 Tempo de Espera Médio da Amostra: 0.000021
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000167 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.000854 Tempo Ocioso Médio da Amostra: 0.000009
 
 
-Tempo de Espera Médio da Amostra: 0.000027
+Tempo de Espera Médio da Amostra: 0.000010
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000145 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000823 Tempo Ocioso Médio da Amostra: 0.000008
+
+
+Tempo de Espera Médio da Amostra: 0.000017
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000754 Tempo Ocioso Médio da Amostra: 0.000008
+
+
+Tempo de Espera Médio da Amostra: 0.000015
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001067 Tempo Ocioso Médio da Amostra: 0.000011
+
+
+Tempo de Espera Médio da Amostra: 0.000019
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001043 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000020
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000657 Tempo Ocioso Médio da Amostra: 0.000007
+
+
+Tempo de Espera Médio da Amostra: 0.000021
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001037 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000012
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000430 Tempo Ocioso Médio da Amostra: 0.000004
+
+
+Tempo de Espera Médio da Amostra: 0.000005
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000879 Tempo Ocioso Médio da Amostra: 0.000009
+
+
+Tempo de Espera Médio da Amostra: 0.000010
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000882 Tempo Ocioso Médio da Amostra: 0.000009
+
+
+Tempo de Espera Médio da Amostra: 0.000007
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001160 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000010
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001060 Tempo Ocioso Médio da Amostra: 0.000011
+
+
+Tempo de Espera Médio da Amostra: 0.000015
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001032 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000004
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001034 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000015
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000632 Tempo Ocioso Médio da Amostra: 0.000006
+
+
+Tempo de Espera Médio da Amostra: 0.000014
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000589 Tempo Ocioso Médio da Amostra: 0.000006
+
+
+Tempo de Espera Médio da Amostra: 0.000004
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001148 Tempo Ocioso Médio da Amostra: 0.000011
+
+
+Tempo de Espera Médio da Amostra: 0.000009
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001354 Tempo Ocioso Médio da Amostra: 0.000014
+
+
+Tempo de Espera Médio da Amostra: 0.000009
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001010 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000006
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001083 Tempo Ocioso Médio da Amostra: 0.000011
+
+
+Tempo de Espera Médio da Amostra: 0.000014
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000624 Tempo Ocioso Médio da Amostra: 0.000006
+
+
+Tempo de Espera Médio da Amostra: 0.000008
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001128 Tempo Ocioso Médio da Amostra: 0.000011
+
+
+Tempo de Espera Médio da Amostra: 0.000016
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001114 Tempo Ocioso Médio da Amostra: 0.000011
+
+
+Tempo de Espera Médio da Amostra: 0.000006
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001114 Tempo Ocioso Médio da Amostra: 0.000011
+
+
+Tempo de Espera Médio da Amostra: 0.000005
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000917 Tempo Ocioso Médio da Amostra: 0.000009
+
+
+Tempo de Espera Médio da Amostra: 0.000005
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001224 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000011
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000784 Tempo Ocioso Médio da Amostra: 0.000008
+
+
+Tempo de Espera Médio da Amostra: 0.000004
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001185 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000005
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001244 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000007
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001356 Tempo Ocioso Médio da Amostra: 0.000014
+
+
+Tempo de Espera Médio da Amostra: 0.000013
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000977 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000005
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001030 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo de Espera Médio da Amostra: 0.000003
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000946 Tempo Ocioso Médio da Amostra: 0.000009
+
+
+Tempo de Espera Médio da Amostra: 0.000007
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001220 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000011
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001218 Tempo Ocioso Médio da Amostra: 0.000012
+
+
+Tempo de Espera Médio da Amostra: 0.000007
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001303 Tempo Ocioso Médio da Amostra: 0.000013
+
+
+Tempo de Espera Médio da Amostra: 0.000008
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001437 Tempo Ocioso Médio da Amostra: 0.000014
+
+
+Tempo de Espera Médio da Amostra: 0.000034
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000893 Tempo Ocioso Médio da Amostra: 0.000009
+
+
+Tempo de Espera Médio da Amostra: 0.000011
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000674 Tempo Ocioso Médio da Amostra: 0.000007
+
+
+Tempo de Espera Médio da Amostra: 0.000004
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001572 Tempo Ocioso Médio da Amostra: 0.000016
+
+
+Tempo de Espera Médio da Amostra: 0.000004
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.001326 Tempo Ocioso Médio da Amostra: 0.000013
 
 
 Tempo de Espera Médio da Amostra: 0.000022
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000198 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.000739 Tempo Ocioso Médio da Amostra: 0.000007
 
 
-Tempo de Espera Médio da Amostra: 0.000042
+Tempo de Espera Médio da Amostra: 0.000008
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000244 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.001144 Tempo Ocioso Médio da Amostra: 0.000011
 
 
-Tempo de Espera Médio da Amostra: 0.000036
+Tempo de Espera Médio da Amostra: 0.000018
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000093 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000506 Tempo Ocioso Médio da Amostra: 0.000005
 
 
-Tempo de Espera Médio da Amostra: 0.000073
+Tempo de Espera Médio da Amostra: 0.000006
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000181 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.001228 Tempo Ocioso Médio da Amostra: 0.000012
 
 
-Tempo de Espera Médio da Amostra: 0.000059
+Tempo de Espera Médio da Amostra: 0.000010
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000144 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000641 Tempo Ocioso Médio da Amostra: 0.000006
 
 
-Tempo de Espera Médio da Amostra: 0.000027
+Tempo de Espera Médio da Amostra: 0.000016
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000131 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000726 Tempo Ocioso Médio da Amostra: 0.000007
 
 
-Tempo de Espera Médio da Amostra: 0.000048
+Tempo de Espera Médio da Amostra: 0.000011
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000171 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.001128 Tempo Ocioso Médio da Amostra: 0.000011
 
 
-Tempo de Espera Médio da Amostra: 0.000032
+Tempo de Espera Médio da Amostra: 0.000006
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000148 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000848 Tempo Ocioso Médio da Amostra: 0.000008
 
 
-Tempo de Espera Médio da Amostra: 0.000037
+Tempo de Espera Médio da Amostra: 0.000013
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000140 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.001038 Tempo Ocioso Médio da Amostra: 0.000010
 
 
-Tempo de Espera Médio da Amostra: 0.000070
+Tempo de Espera Médio da Amostra: 0.000006
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000050 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.001314 Tempo Ocioso Médio da Amostra: 0.000013
 
 
-Tempo de Espera Médio da Amostra: 0.000045
+Tempo de Espera Médio da Amostra: 0.000009
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000096 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.001360 Tempo Ocioso Médio da Amostra: 0.000014
 
 
-Tempo de Espera Médio da Amostra: 0.000024
+Tempo de Espera Médio da Amostra: 0.000009
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000117 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.001054 Tempo Ocioso Médio da Amostra: 0.000011
 
 
-Tempo de Espera Médio da Amostra: 0.000027
+Tempo de Espera Médio da Amostra: 0.000011
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000125 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000568 Tempo Ocioso Médio da Amostra: 0.000006
 
 
-Tempo de Espera Médio da Amostra: 0.000032
+Tempo de Espera Médio da Amostra: 0.000012
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000103 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000886 Tempo Ocioso Médio da Amostra: 0.000009
 
 
-Tempo de Espera Médio da Amostra: 0.000061
+Tempo de Espera Médio da Amostra: 0.000004
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000013 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000043
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000030 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000096
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000036
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000080 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000053
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000028 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000096
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000026 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000067
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000049 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000097
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000021 Tempo Ocioso Médio da Amostra: 0.000000
-
-
-Tempo de Espera Médio da Amostra: 0.000045
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000089 Tempo Ocioso Médio da Amostra: 0.000001
-
-
-Tempo de Espera Médio da Amostra: 0.000061
-Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.001155 Tempo Ocioso Médio da Amostra: 0.000012
 
 
 Tempo de Espera Médio da Amostra: 0.000026
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000211 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.000819 Tempo Ocioso Médio da Amostra: 0.000008
 
 
-Tempo de Espera Médio da Amostra: 0.000060
+Tempo de Espera Médio da Amostra: 0.000020
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000035 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.001122 Tempo Ocioso Médio da Amostra: 0.000011
 
 
-Tempo de Espera Médio da Amostra: 0.000031
+Tempo de Espera Médio da Amostra: 0.000011
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000193 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.000836 Tempo Ocioso Médio da Amostra: 0.000008
 
 
-Tempo de Espera Médio da Amostra: 0.000111
+Tempo de Espera Médio da Amostra: 0.000014
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000042 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.000906 Tempo Ocioso Médio da Amostra: 0.000009
 
 
-Tempo de Espera Médio da Amostra: 0.000123
+Tempo de Espera Médio da Amostra: 0.000007
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000188 Tempo Ocioso Médio da Amostra: 0.000002
+Tempo Ocioso da Amostra: 0.001157 Tempo Ocioso Médio da Amostra: 0.000012
 
 
-Tempo de Espera Médio da Amostra: 0.000042
+Tempo de Espera Médio da Amostra: 0.000010
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000132 Tempo Ocioso Médio da Amostra: 0.000001
+Tempo Ocioso da Amostra: 0.000963 Tempo Ocioso Médio da Amostra: 0.000010
 
 
-Tempo de Espera Médio da Amostra: 0.000043
+Tempo de Espera Médio da Amostra: 0.000013
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000037 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.001045 Tempo Ocioso Médio da Amostra: 0.000010
 
 
-Tempo de Espera Médio da Amostra: 0.000045
+Tempo de Espera Médio da Amostra: 0.000008
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.000050 Tempo Ocioso Médio da Amostra: 0.000000
+Tempo Ocioso da Amostra: 0.000849 Tempo Ocioso Médio da Amostra: 0.000008
 
 
-Tempo de Espera Médio da Amostra: 0.000135
+Tempo de Espera Médio da Amostra: 0.000008
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000961 Tempo Ocioso Médio da Amostra: 0.000010
+
+
+Tempo médio na fila: 0.000011 	 Intervalo de confiança: (0.000009,0.000012)
+Tempo médio em atendimento: 0.000511	 Intervalo de confiança: (0.000454,0.000569)
+Tempo ocioso médio entre clientes: 0.000010	 Intervalo de confiança:(-0.000036,0.000056)
+
+		Simulador M/M/1
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.373479 Tempo Ocioso Médio da Amostra: 0.003735
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.386639 Tempo Ocioso Médio da Amostra: 0.003866
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.426839 Tempo Ocioso Médio da Amostra: 0.004268
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.373142 Tempo Ocioso Médio da Amostra: 0.003731
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.421902 Tempo Ocioso Médio da Amostra: 0.004219
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.396629 Tempo Ocioso Médio da Amostra: 0.003966
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.396071 Tempo Ocioso Médio da Amostra: 0.003961
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.347839 Tempo Ocioso Médio da Amostra: 0.003478
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.359969 Tempo Ocioso Médio da Amostra: 0.003600
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.400752 Tempo Ocioso Médio da Amostra: 0.004008
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.390959 Tempo Ocioso Médio da Amostra: 0.003910
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.442929 Tempo Ocioso Médio da Amostra: 0.004429
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.440426 Tempo Ocioso Médio da Amostra: 0.004404
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.360397 Tempo Ocioso Médio da Amostra: 0.003604
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.365040 Tempo Ocioso Médio da Amostra: 0.003650
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.470802 Tempo Ocioso Médio da Amostra: 0.004708
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.424109 Tempo Ocioso Médio da Amostra: 0.004241
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.394417 Tempo Ocioso Médio da Amostra: 0.003944
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.428280 Tempo Ocioso Médio da Amostra: 0.004283
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.376878 Tempo Ocioso Médio da Amostra: 0.003769
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.306516 Tempo Ocioso Médio da Amostra: 0.003065
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.411342 Tempo Ocioso Médio da Amostra: 0.004113
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.414387 Tempo Ocioso Médio da Amostra: 0.004144
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.460164 Tempo Ocioso Médio da Amostra: 0.004602
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.438862 Tempo Ocioso Médio da Amostra: 0.004389
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.380263 Tempo Ocioso Médio da Amostra: 0.003803
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.381127 Tempo Ocioso Médio da Amostra: 0.003811
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.479923 Tempo Ocioso Médio da Amostra: 0.004799
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.392570 Tempo Ocioso Médio da Amostra: 0.003926
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.377862 Tempo Ocioso Médio da Amostra: 0.003779
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.422164 Tempo Ocioso Médio da Amostra: 0.004222
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.382813 Tempo Ocioso Médio da Amostra: 0.003828
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.460249 Tempo Ocioso Médio da Amostra: 0.004602
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.348426 Tempo Ocioso Médio da Amostra: 0.003484
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.439794 Tempo Ocioso Médio da Amostra: 0.004398
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.372741 Tempo Ocioso Médio da Amostra: 0.003727
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.367110 Tempo Ocioso Médio da Amostra: 0.003671
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.444551 Tempo Ocioso Médio da Amostra: 0.004446
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.443579 Tempo Ocioso Médio da Amostra: 0.004436
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.366333 Tempo Ocioso Médio da Amostra: 0.003663
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.406458 Tempo Ocioso Médio da Amostra: 0.004065
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.483742 Tempo Ocioso Médio da Amostra: 0.004837
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.315520 Tempo Ocioso Médio da Amostra: 0.003155
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.410329 Tempo Ocioso Médio da Amostra: 0.004103
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.352495 Tempo Ocioso Médio da Amostra: 0.003525
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.410396 Tempo Ocioso Médio da Amostra: 0.004104
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.405484 Tempo Ocioso Médio da Amostra: 0.004055
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.466976 Tempo Ocioso Médio da Amostra: 0.004670
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.373062 Tempo Ocioso Médio da Amostra: 0.003731
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.397817 Tempo Ocioso Médio da Amostra: 0.003978
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.405110 Tempo Ocioso Médio da Amostra: 0.004051
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.376820 Tempo Ocioso Médio da Amostra: 0.003768
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.387192 Tempo Ocioso Médio da Amostra: 0.003872
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.472134 Tempo Ocioso Médio da Amostra: 0.004721
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.413724 Tempo Ocioso Médio da Amostra: 0.004137
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.468432 Tempo Ocioso Médio da Amostra: 0.004684
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.344674 Tempo Ocioso Médio da Amostra: 0.003447
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.361151 Tempo Ocioso Médio da Amostra: 0.003612
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.392536 Tempo Ocioso Médio da Amostra: 0.003925
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.411384 Tempo Ocioso Médio da Amostra: 0.004114
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.433911 Tempo Ocioso Médio da Amostra: 0.004339
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.349380 Tempo Ocioso Médio da Amostra: 0.003494
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.349465 Tempo Ocioso Médio da Amostra: 0.003495
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.375449 Tempo Ocioso Médio da Amostra: 0.003754
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.355992 Tempo Ocioso Médio da Amostra: 0.003560
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.365785 Tempo Ocioso Médio da Amostra: 0.003658
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.403932 Tempo Ocioso Médio da Amostra: 0.004039
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.436317 Tempo Ocioso Médio da Amostra: 0.004363
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.439613 Tempo Ocioso Médio da Amostra: 0.004396
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.405642 Tempo Ocioso Médio da Amostra: 0.004056
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.462553 Tempo Ocioso Médio da Amostra: 0.004626
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.423559 Tempo Ocioso Médio da Amostra: 0.004236
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.349162 Tempo Ocioso Médio da Amostra: 0.003492
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.430766 Tempo Ocioso Médio da Amostra: 0.004308
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.409993 Tempo Ocioso Médio da Amostra: 0.004100
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.414573 Tempo Ocioso Médio da Amostra: 0.004146
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.422329 Tempo Ocioso Médio da Amostra: 0.004223
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.372414 Tempo Ocioso Médio da Amostra: 0.003724
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.423704 Tempo Ocioso Médio da Amostra: 0.004237
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.378521 Tempo Ocioso Médio da Amostra: 0.003785
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.398732 Tempo Ocioso Médio da Amostra: 0.003987
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.394179 Tempo Ocioso Médio da Amostra: 0.003942
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.418657 Tempo Ocioso Médio da Amostra: 0.004187
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.376197 Tempo Ocioso Médio da Amostra: 0.003762
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.476164 Tempo Ocioso Médio da Amostra: 0.004762
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.363690 Tempo Ocioso Médio da Amostra: 0.003637
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.427712 Tempo Ocioso Médio da Amostra: 0.004277
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.385216 Tempo Ocioso Médio da Amostra: 0.003852
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.434603 Tempo Ocioso Médio da Amostra: 0.004346
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.422902 Tempo Ocioso Médio da Amostra: 0.004229
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.385372 Tempo Ocioso Médio da Amostra: 0.003854
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.469572 Tempo Ocioso Médio da Amostra: 0.004696
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.412570 Tempo Ocioso Médio da Amostra: 0.004126
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.407228 Tempo Ocioso Médio da Amostra: 0.004072
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.416267 Tempo Ocioso Médio da Amostra: 0.004163
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.427535 Tempo Ocioso Médio da Amostra: 0.004275
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.392377 Tempo Ocioso Médio da Amostra: 0.003924
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.345572 Tempo Ocioso Médio da Amostra: 0.003456
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.405672 Tempo Ocioso Médio da Amostra: 0.004057
+
+
+Tempo de Espera Médio da Amostra: 0.000000
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.448209 Tempo Ocioso Médio da Amostra: 0.004482
+
+
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000497	 Intervalo de confiança: (0.000441,0.000553)
+Tempo ocioso médio entre clientes: 0.004034	 Intervalo de confiança:(-0.003341,0.011408)
+
+		Simulador M/M/1
+
+Tempo de Espera Médio da Amostra: 0.000049
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000102 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000115
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000117 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000065
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000115 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000055
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000148 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000096
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000153 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000103
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000020 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000049
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000031 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000038
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000128 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000107
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000031 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000193
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000038 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000069
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000112 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000222
 Tempo de Atendimento Médio da Amostra: 0.00
 Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
 
 
+Tempo de Espera Médio da Amostra: 0.000047
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000110 Tempo Ocioso Médio da Amostra: 0.000001
+
+
 Tempo de Espera Médio da Amostra: 0.000051
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000181 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000030
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000163 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000022
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000039 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000019
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000171 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000030
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000165 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000031
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000278 Tempo Ocioso Médio da Amostra: 0.000003
+
+
+Tempo de Espera Médio da Amostra: 0.000158
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000065
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000132 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000101
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000030
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000336 Tempo Ocioso Médio da Amostra: 0.000003
+
+
+Tempo de Espera Médio da Amostra: 0.000023
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000291 Tempo Ocioso Médio da Amostra: 0.000003
+
+
+Tempo de Espera Médio da Amostra: 0.000067
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000070 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000051
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000022 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000127
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000041 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000109
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000013 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000031
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000274 Tempo Ocioso Médio da Amostra: 0.000003
+
+
+Tempo de Espera Médio da Amostra: 0.000109
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000001 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000092
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000071
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000001 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000100
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000078 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000197
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000024 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000087
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000089 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000022
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000199 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000104
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000013 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000093
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000071 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000042
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000001 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000019
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000329 Tempo Ocioso Médio da Amostra: 0.000003
+
+
+Tempo de Espera Médio da Amostra: 0.000031
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000085 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000025
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000143 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000090
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000135 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000162
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000186 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000075
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000081 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000042
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000153 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000089
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000056 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000104
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000043
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000116 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000026
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000107 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000068
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000101 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000090
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000026 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000054
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000051 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000049
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000075 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000030
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000166 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000085
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000023 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000105
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000110 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000074
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000114 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000081
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000050 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000058
 Tempo de Atendimento Médio da Amostra: 0.00
 Tempo Ocioso da Amostra: 0.000086 Tempo Ocioso Médio da Amostra: 0.000001
 
 
-Tempo médio na fila: 0.000066 	 Intervalo de confiança: (0.000058,0.000074)Tempo médio em atendimento: 0.000500	 Intervalo de confiança: (0.000444,0.000556)Tempo ocioso médio entre clientes: 0.000001	 Intervalo de confiança:(-0.000014,0.000015)
+Tempo de Espera Médio da Amostra: 0.000059
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000055 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000078
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000021 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000105
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000081 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000082
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000058 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000049
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000080 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000119
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000004 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000014
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000287 Tempo Ocioso Médio da Amostra: 0.000003
+
+
+Tempo de Espera Médio da Amostra: 0.000099
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000029 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000043
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000119 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000134
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000025
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000058 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000029
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000121 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000118
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000063
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000094 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000028
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000140 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000037
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000152 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000047
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000107 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000070
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000121 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000096
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000055 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000038
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000094 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000057
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000049 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000060
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000069 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000039
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000124 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000052
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000103 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000015
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000220 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000174
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000004 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000032
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000087 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000027
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000081 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000072
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000078 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000026
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000162 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000035
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000184 Tempo Ocioso Médio da Amostra: 0.000002
+
+
+Tempo de Espera Médio da Amostra: 0.000056
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000024 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000040
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000027 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000082
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000114 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000108
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000071 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000052
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000100 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000032
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000093 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo de Espera Médio da Amostra: 0.000169
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000000 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000035
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000029 Tempo Ocioso Médio da Amostra: 0.000000
+
+
+Tempo de Espera Médio da Amostra: 0.000055
+Tempo de Atendimento Médio da Amostra: 0.00
+Tempo Ocioso da Amostra: 0.000052 Tempo Ocioso Médio da Amostra: 0.000001
+
+
+Tempo médio na fila: 0.000070 	 Intervalo de confiança: (0.000062,0.000079)
+Tempo médio em atendimento: 0.000507	 Intervalo de confiança: (0.000450,0.000563)
+Tempo ocioso médio entre clientes: 0.000001	 Intervalo de confiança:(-0.000014,0.000016)
 
 		Simulador M/M/1
-Tempo		 Evento		 Cliente
 
-
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.506745 Tempo Ocioso Médio da Amostra: 0.005067
+Tempo Ocioso da Amostra: 0.492205 Tempo Ocioso Médio da Amostra: 0.004922
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.449729 Tempo Ocioso Médio da Amostra: 0.004497
+Tempo Ocioso da Amostra: 0.428603 Tempo Ocioso Médio da Amostra: 0.004286
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.366000 Tempo Ocioso Médio da Amostra: 0.003660
+Tempo Ocioso da Amostra: 0.436219 Tempo Ocioso Médio da Amostra: 0.004362
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.471114 Tempo Ocioso Médio da Amostra: 0.004711
+Tempo Ocioso da Amostra: 0.519434 Tempo Ocioso Médio da Amostra: 0.005194
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.458475 Tempo Ocioso Médio da Amostra: 0.004585
+Tempo Ocioso da Amostra: 0.430571 Tempo Ocioso Médio da Amostra: 0.004306
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.531746 Tempo Ocioso Médio da Amostra: 0.005317
+Tempo Ocioso da Amostra: 0.401755 Tempo Ocioso Médio da Amostra: 0.004018
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.435760 Tempo Ocioso Médio da Amostra: 0.004358
+Tempo Ocioso da Amostra: 0.478128 Tempo Ocioso Médio da Amostra: 0.004781
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.466435 Tempo Ocioso Médio da Amostra: 0.004664
+Tempo Ocioso da Amostra: 0.380068 Tempo Ocioso Médio da Amostra: 0.003801
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.519566 Tempo Ocioso Médio da Amostra: 0.005196
+Tempo Ocioso da Amostra: 0.460884 Tempo Ocioso Médio da Amostra: 0.004609
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.464140 Tempo Ocioso Médio da Amostra: 0.004641
+Tempo Ocioso da Amostra: 0.500967 Tempo Ocioso Médio da Amostra: 0.005010
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.453008 Tempo Ocioso Médio da Amostra: 0.004530
+Tempo Ocioso da Amostra: 0.424791 Tempo Ocioso Médio da Amostra: 0.004248
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.465595 Tempo Ocioso Médio da Amostra: 0.004656
+Tempo Ocioso da Amostra: 0.499156 Tempo Ocioso Médio da Amostra: 0.004992
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.539995 Tempo Ocioso Médio da Amostra: 0.005400
+Tempo Ocioso da Amostra: 0.495428 Tempo Ocioso Médio da Amostra: 0.004954
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.427170 Tempo Ocioso Médio da Amostra: 0.004272
+Tempo Ocioso da Amostra: 0.454236 Tempo Ocioso Médio da Amostra: 0.004542
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.470459 Tempo Ocioso Médio da Amostra: 0.004705
+Tempo Ocioso da Amostra: 0.384367 Tempo Ocioso Médio da Amostra: 0.003844
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.427814 Tempo Ocioso Médio da Amostra: 0.004278
+Tempo Ocioso da Amostra: 0.483918 Tempo Ocioso Médio da Amostra: 0.004839
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.525456 Tempo Ocioso Médio da Amostra: 0.005255
+Tempo Ocioso da Amostra: 0.496609 Tempo Ocioso Médio da Amostra: 0.004966
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.409291 Tempo Ocioso Médio da Amostra: 0.004093
+Tempo Ocioso da Amostra: 0.463756 Tempo Ocioso Médio da Amostra: 0.004638
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.437660 Tempo Ocioso Médio da Amostra: 0.004377
+Tempo Ocioso da Amostra: 0.461561 Tempo Ocioso Médio da Amostra: 0.004616
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.399344 Tempo Ocioso Médio da Amostra: 0.003993
+Tempo Ocioso da Amostra: 0.395687 Tempo Ocioso Médio da Amostra: 0.003957
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.496757 Tempo Ocioso Médio da Amostra: 0.004968
+Tempo Ocioso da Amostra: 0.430840 Tempo Ocioso Médio da Amostra: 0.004308
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.431843 Tempo Ocioso Médio da Amostra: 0.004318
+Tempo Ocioso da Amostra: 0.447986 Tempo Ocioso Médio da Amostra: 0.004480
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.400837 Tempo Ocioso Médio da Amostra: 0.004008
+Tempo Ocioso da Amostra: 0.394981 Tempo Ocioso Médio da Amostra: 0.003950
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.400356 Tempo Ocioso Médio da Amostra: 0.004004
+Tempo Ocioso da Amostra: 0.406837 Tempo Ocioso Médio da Amostra: 0.004068
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.531070 Tempo Ocioso Médio da Amostra: 0.005311
+Tempo Ocioso da Amostra: 0.369990 Tempo Ocioso Médio da Amostra: 0.003700
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.432731 Tempo Ocioso Médio da Amostra: 0.004327
+Tempo Ocioso da Amostra: 0.526284 Tempo Ocioso Médio da Amostra: 0.005263
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.438466 Tempo Ocioso Médio da Amostra: 0.004385
+Tempo Ocioso da Amostra: 0.463875 Tempo Ocioso Médio da Amostra: 0.004639
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.492745 Tempo Ocioso Médio da Amostra: 0.004927
+Tempo Ocioso da Amostra: 0.450384 Tempo Ocioso Médio da Amostra: 0.004504
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.393378 Tempo Ocioso Médio da Amostra: 0.003934
+Tempo Ocioso da Amostra: 0.419479 Tempo Ocioso Médio da Amostra: 0.004195
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.472802 Tempo Ocioso Médio da Amostra: 0.004728
+Tempo Ocioso da Amostra: 0.474618 Tempo Ocioso Médio da Amostra: 0.004746
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.515764 Tempo Ocioso Médio da Amostra: 0.005158
+Tempo Ocioso da Amostra: 0.423598 Tempo Ocioso Médio da Amostra: 0.004236
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.447941 Tempo Ocioso Médio da Amostra: 0.004479
+Tempo Ocioso da Amostra: 0.444064 Tempo Ocioso Médio da Amostra: 0.004441
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.451214 Tempo Ocioso Médio da Amostra: 0.004512
+Tempo Ocioso da Amostra: 0.473350 Tempo Ocioso Médio da Amostra: 0.004734
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.400634 Tempo Ocioso Médio da Amostra: 0.004006
+Tempo Ocioso da Amostra: 0.494779 Tempo Ocioso Médio da Amostra: 0.004948
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.437046 Tempo Ocioso Médio da Amostra: 0.004370
+Tempo Ocioso da Amostra: 0.451088 Tempo Ocioso Médio da Amostra: 0.004511
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.542373 Tempo Ocioso Médio da Amostra: 0.005424
+Tempo Ocioso da Amostra: 0.463360 Tempo Ocioso Médio da Amostra: 0.004634
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.442807 Tempo Ocioso Médio da Amostra: 0.004428
+Tempo Ocioso da Amostra: 0.454202 Tempo Ocioso Médio da Amostra: 0.004542
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.429895 Tempo Ocioso Médio da Amostra: 0.004299
+Tempo Ocioso da Amostra: 0.461267 Tempo Ocioso Médio da Amostra: 0.004613
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.503922 Tempo Ocioso Médio da Amostra: 0.005039
+Tempo Ocioso da Amostra: 0.376651 Tempo Ocioso Médio da Amostra: 0.003767
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.344386 Tempo Ocioso Médio da Amostra: 0.003444
+Tempo Ocioso da Amostra: 0.527280 Tempo Ocioso Médio da Amostra: 0.005273
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.375971 Tempo Ocioso Médio da Amostra: 0.003760
+Tempo Ocioso da Amostra: 0.375587 Tempo Ocioso Médio da Amostra: 0.003756
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.427109 Tempo Ocioso Médio da Amostra: 0.004271
+Tempo Ocioso da Amostra: 0.481819 Tempo Ocioso Médio da Amostra: 0.004818
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.507747 Tempo Ocioso Médio da Amostra: 0.005077
+Tempo Ocioso da Amostra: 0.482544 Tempo Ocioso Médio da Amostra: 0.004825
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.448959 Tempo Ocioso Médio da Amostra: 0.004490
+Tempo Ocioso da Amostra: 0.430129 Tempo Ocioso Médio da Amostra: 0.004301
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.476359 Tempo Ocioso Médio da Amostra: 0.004764
+Tempo Ocioso da Amostra: 0.435265 Tempo Ocioso Médio da Amostra: 0.004353
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.439068 Tempo Ocioso Médio da Amostra: 0.004391
+Tempo Ocioso da Amostra: 0.519823 Tempo Ocioso Médio da Amostra: 0.005198
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.521925 Tempo Ocioso Médio da Amostra: 0.005219
+Tempo Ocioso da Amostra: 0.547006 Tempo Ocioso Médio da Amostra: 0.005470
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.415188 Tempo Ocioso Médio da Amostra: 0.004152
+Tempo Ocioso da Amostra: 0.428286 Tempo Ocioso Médio da Amostra: 0.004283
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.393575 Tempo Ocioso Médio da Amostra: 0.003936
+Tempo Ocioso da Amostra: 0.390506 Tempo Ocioso Médio da Amostra: 0.003905
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.453950 Tempo Ocioso Médio da Amostra: 0.004540
+Tempo Ocioso da Amostra: 0.466620 Tempo Ocioso Médio da Amostra: 0.004666
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.482248 Tempo Ocioso Médio da Amostra: 0.004822
+Tempo Ocioso da Amostra: 0.492039 Tempo Ocioso Médio da Amostra: 0.004920
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.323461 Tempo Ocioso Médio da Amostra: 0.003235
+Tempo Ocioso da Amostra: 0.412426 Tempo Ocioso Médio da Amostra: 0.004124
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.447594 Tempo Ocioso Médio da Amostra: 0.004476
+Tempo Ocioso da Amostra: 0.452243 Tempo Ocioso Médio da Amostra: 0.004522
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.438223 Tempo Ocioso Médio da Amostra: 0.004382
+Tempo Ocioso da Amostra: 0.464518 Tempo Ocioso Médio da Amostra: 0.004645
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.479790 Tempo Ocioso Médio da Amostra: 0.004798
+Tempo Ocioso da Amostra: 0.527927 Tempo Ocioso Médio da Amostra: 0.005279
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.426627 Tempo Ocioso Médio da Amostra: 0.004266
+Tempo Ocioso da Amostra: 0.526333 Tempo Ocioso Médio da Amostra: 0.005263
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.392959 Tempo Ocioso Médio da Amostra: 0.003930
+Tempo Ocioso da Amostra: 0.387652 Tempo Ocioso Médio da Amostra: 0.003877
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.463825 Tempo Ocioso Médio da Amostra: 0.004638
+Tempo Ocioso da Amostra: 0.380304 Tempo Ocioso Médio da Amostra: 0.003803
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.392785 Tempo Ocioso Médio da Amostra: 0.003928
+Tempo Ocioso da Amostra: 0.409967 Tempo Ocioso Médio da Amostra: 0.004100
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.414674 Tempo Ocioso Médio da Amostra: 0.004147
+Tempo Ocioso da Amostra: 0.425251 Tempo Ocioso Médio da Amostra: 0.004253
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.469349 Tempo Ocioso Médio da Amostra: 0.004693
+Tempo Ocioso da Amostra: 0.400518 Tempo Ocioso Médio da Amostra: 0.004005
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.516635 Tempo Ocioso Médio da Amostra: 0.005166
+Tempo Ocioso da Amostra: 0.509057 Tempo Ocioso Médio da Amostra: 0.005091
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.443645 Tempo Ocioso Médio da Amostra: 0.004436
+Tempo Ocioso da Amostra: 0.419415 Tempo Ocioso Médio da Amostra: 0.004194
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.425971 Tempo Ocioso Médio da Amostra: 0.004260
+Tempo Ocioso da Amostra: 0.428019 Tempo Ocioso Médio da Amostra: 0.004280
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.412919 Tempo Ocioso Médio da Amostra: 0.004129
+Tempo Ocioso da Amostra: 0.415013 Tempo Ocioso Médio da Amostra: 0.004150
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.456763 Tempo Ocioso Médio da Amostra: 0.004568
+Tempo Ocioso da Amostra: 0.471622 Tempo Ocioso Médio da Amostra: 0.004716
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.452093 Tempo Ocioso Médio da Amostra: 0.004521
+Tempo Ocioso da Amostra: 0.505287 Tempo Ocioso Médio da Amostra: 0.005053
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.391151 Tempo Ocioso Médio da Amostra: 0.003912
+Tempo Ocioso da Amostra: 0.462633 Tempo Ocioso Médio da Amostra: 0.004626
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.502412 Tempo Ocioso Médio da Amostra: 0.005024
+Tempo Ocioso da Amostra: 0.459737 Tempo Ocioso Médio da Amostra: 0.004597
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.425049 Tempo Ocioso Médio da Amostra: 0.004250
+Tempo Ocioso da Amostra: 0.429790 Tempo Ocioso Médio da Amostra: 0.004298
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.442678 Tempo Ocioso Médio da Amostra: 0.004427
+Tempo Ocioso da Amostra: 0.435203 Tempo Ocioso Médio da Amostra: 0.004352
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.518886 Tempo Ocioso Médio da Amostra: 0.005189
+Tempo Ocioso da Amostra: 0.445441 Tempo Ocioso Médio da Amostra: 0.004454
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.525239 Tempo Ocioso Médio da Amostra: 0.005252
+Tempo Ocioso da Amostra: 0.532306 Tempo Ocioso Médio da Amostra: 0.005323
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.504048 Tempo Ocioso Médio da Amostra: 0.005040
+Tempo Ocioso da Amostra: 0.449702 Tempo Ocioso Médio da Amostra: 0.004497
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.484808 Tempo Ocioso Médio da Amostra: 0.004848
+Tempo Ocioso da Amostra: 0.535346 Tempo Ocioso Médio da Amostra: 0.005353
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.435636 Tempo Ocioso Médio da Amostra: 0.004356
+Tempo Ocioso da Amostra: 0.486969 Tempo Ocioso Médio da Amostra: 0.004870
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.470740 Tempo Ocioso Médio da Amostra: 0.004707
+Tempo Ocioso da Amostra: 0.506232 Tempo Ocioso Médio da Amostra: 0.005062
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.523355 Tempo Ocioso Médio da Amostra: 0.005234
+Tempo Ocioso da Amostra: 0.454156 Tempo Ocioso Médio da Amostra: 0.004542
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.453256 Tempo Ocioso Médio da Amostra: 0.004533
+Tempo Ocioso da Amostra: 0.356658 Tempo Ocioso Médio da Amostra: 0.003567
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.434817 Tempo Ocioso Médio da Amostra: 0.004348
+Tempo Ocioso da Amostra: 0.476377 Tempo Ocioso Médio da Amostra: 0.004764
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.439005 Tempo Ocioso Médio da Amostra: 0.004390
+Tempo Ocioso da Amostra: 0.458066 Tempo Ocioso Médio da Amostra: 0.004581
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.467201 Tempo Ocioso Médio da Amostra: 0.004672
+Tempo Ocioso da Amostra: 0.483649 Tempo Ocioso Médio da Amostra: 0.004836
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.506425 Tempo Ocioso Médio da Amostra: 0.005064
+Tempo Ocioso da Amostra: 0.458974 Tempo Ocioso Médio da Amostra: 0.004590
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.535274 Tempo Ocioso Médio da Amostra: 0.005353
+Tempo Ocioso da Amostra: 0.525889 Tempo Ocioso Médio da Amostra: 0.005259
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.439839 Tempo Ocioso Médio da Amostra: 0.004398
+Tempo Ocioso da Amostra: 0.481132 Tempo Ocioso Médio da Amostra: 0.004811
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.550266 Tempo Ocioso Médio da Amostra: 0.005503
+Tempo Ocioso da Amostra: 0.466850 Tempo Ocioso Médio da Amostra: 0.004668
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.505815 Tempo Ocioso Médio da Amostra: 0.005058
+Tempo Ocioso da Amostra: 0.466253 Tempo Ocioso Médio da Amostra: 0.004663
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.469482 Tempo Ocioso Médio da Amostra: 0.004695
+Tempo Ocioso da Amostra: 0.503799 Tempo Ocioso Médio da Amostra: 0.005038
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.464208 Tempo Ocioso Médio da Amostra: 0.004642
+Tempo Ocioso da Amostra: 0.411204 Tempo Ocioso Médio da Amostra: 0.004112
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.406352 Tempo Ocioso Médio da Amostra: 0.004064
+Tempo Ocioso da Amostra: 0.410782 Tempo Ocioso Médio da Amostra: 0.004108
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.497740 Tempo Ocioso Médio da Amostra: 0.004977
+Tempo Ocioso da Amostra: 0.444717 Tempo Ocioso Médio da Amostra: 0.004447
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.518545 Tempo Ocioso Médio da Amostra: 0.005185
+Tempo Ocioso da Amostra: 0.424060 Tempo Ocioso Médio da Amostra: 0.004241
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.469436 Tempo Ocioso Médio da Amostra: 0.004694
+Tempo Ocioso da Amostra: 0.335654 Tempo Ocioso Médio da Amostra: 0.003357
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.427035 Tempo Ocioso Médio da Amostra: 0.004270
+Tempo Ocioso da Amostra: 0.479397 Tempo Ocioso Médio da Amostra: 0.004794
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.431301 Tempo Ocioso Médio da Amostra: 0.004313
+Tempo Ocioso da Amostra: 0.421395 Tempo Ocioso Médio da Amostra: 0.004214
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.442683 Tempo Ocioso Médio da Amostra: 0.004427
+Tempo Ocioso da Amostra: 0.464401 Tempo Ocioso Médio da Amostra: 0.004644
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.383209 Tempo Ocioso Médio da Amostra: 0.003832
+Tempo Ocioso da Amostra: 0.419269 Tempo Ocioso Médio da Amostra: 0.004193
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.420871 Tempo Ocioso Médio da Amostra: 0.004209
+Tempo Ocioso da Amostra: 0.384589 Tempo Ocioso Médio da Amostra: 0.003846
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.446960 Tempo Ocioso Médio da Amostra: 0.004470
+Tempo Ocioso da Amostra: 0.490553 Tempo Ocioso Médio da Amostra: 0.004906
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.479275 Tempo Ocioso Médio da Amostra: 0.004793
+Tempo Ocioso da Amostra: 0.467899 Tempo Ocioso Médio da Amostra: 0.004679
 
 
-Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)Tempo médio em atendimento: 0.000503	 Intervalo de confiança: (0.000447,0.000560)Tempo ocioso médio entre clientes: 0.004554	 Intervalo de confiança:(-0.004511,0.013620)
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000503	 Intervalo de confiança: (0.000447,0.000560)
+Tempo ocioso médio entre clientes: 0.004526	 Intervalo de confiança:(-0.004269,0.013320)
 
 		Simulador M/M/1
-Tempo		 Evento		 Cliente
 
-
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.341136 Tempo Ocioso Médio da Amostra: 0.013411
+Tempo Ocioso da Amostra: 1.519169 Tempo Ocioso Médio da Amostra: 0.015192
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.618222 Tempo Ocioso Médio da Amostra: 0.016182
+Tempo Ocioso da Amostra: 1.466281 Tempo Ocioso Médio da Amostra: 0.014663
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.439211 Tempo Ocioso Médio da Amostra: 0.014392
+Tempo Ocioso da Amostra: 1.550358 Tempo Ocioso Médio da Amostra: 0.015504
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.289702 Tempo Ocioso Médio da Amostra: 0.012897
+Tempo Ocioso da Amostra: 1.634969 Tempo Ocioso Médio da Amostra: 0.016350
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.406230 Tempo Ocioso Médio da Amostra: 0.014062
+Tempo Ocioso da Amostra: 1.834562 Tempo Ocioso Médio da Amostra: 0.018346
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.400027 Tempo Ocioso Médio da Amostra: 0.014000
+Tempo Ocioso da Amostra: 1.608949 Tempo Ocioso Médio da Amostra: 0.016089
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.617859 Tempo Ocioso Médio da Amostra: 0.016179
+Tempo Ocioso da Amostra: 1.246767 Tempo Ocioso Médio da Amostra: 0.012468
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.434768 Tempo Ocioso Médio da Amostra: 0.014348
+Tempo Ocioso da Amostra: 1.537757 Tempo Ocioso Médio da Amostra: 0.015378
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.555124 Tempo Ocioso Médio da Amostra: 0.015551
+Tempo Ocioso da Amostra: 1.329507 Tempo Ocioso Médio da Amostra: 0.013295
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.739440 Tempo Ocioso Médio da Amostra: 0.017394
+Tempo Ocioso da Amostra: 1.512795 Tempo Ocioso Médio da Amostra: 0.015128
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.616234 Tempo Ocioso Médio da Amostra: 0.016162
+Tempo Ocioso da Amostra: 1.500052 Tempo Ocioso Médio da Amostra: 0.015001
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.769645 Tempo Ocioso Médio da Amostra: 0.017696
+Tempo Ocioso da Amostra: 1.605608 Tempo Ocioso Médio da Amostra: 0.016056
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.576812 Tempo Ocioso Médio da Amostra: 0.015768
+Tempo Ocioso da Amostra: 1.526433 Tempo Ocioso Médio da Amostra: 0.015264
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.528793 Tempo Ocioso Médio da Amostra: 0.015288
+Tempo Ocioso da Amostra: 1.565921 Tempo Ocioso Médio da Amostra: 0.015659
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.228498 Tempo Ocioso Médio da Amostra: 0.012285
+Tempo Ocioso da Amostra: 1.586200 Tempo Ocioso Médio da Amostra: 0.015862
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.431755 Tempo Ocioso Médio da Amostra: 0.014318
+Tempo Ocioso da Amostra: 1.381971 Tempo Ocioso Médio da Amostra: 0.013820
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.654133 Tempo Ocioso Médio da Amostra: 0.016541
+Tempo Ocioso da Amostra: 1.690638 Tempo Ocioso Médio da Amostra: 0.016906
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.473590 Tempo Ocioso Médio da Amostra: 0.014736
+Tempo Ocioso da Amostra: 1.508885 Tempo Ocioso Médio da Amostra: 0.015089
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.773308 Tempo Ocioso Médio da Amostra: 0.017733
+Tempo Ocioso da Amostra: 1.641507 Tempo Ocioso Médio da Amostra: 0.016415
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.345948 Tempo Ocioso Médio da Amostra: 0.013459
+Tempo Ocioso da Amostra: 1.870087 Tempo Ocioso Médio da Amostra: 0.018701
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.547930 Tempo Ocioso Médio da Amostra: 0.015479
+Tempo Ocioso da Amostra: 1.574333 Tempo Ocioso Médio da Amostra: 0.015743
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.507511 Tempo Ocioso Médio da Amostra: 0.015075
+Tempo Ocioso da Amostra: 1.659614 Tempo Ocioso Médio da Amostra: 0.016596
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.384211 Tempo Ocioso Médio da Amostra: 0.013842
+Tempo Ocioso da Amostra: 1.758134 Tempo Ocioso Médio da Amostra: 0.017581
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.511681 Tempo Ocioso Médio da Amostra: 0.015117
+Tempo Ocioso da Amostra: 1.542456 Tempo Ocioso Médio da Amostra: 0.015425
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.621925 Tempo Ocioso Médio da Amostra: 0.016219
+Tempo Ocioso da Amostra: 1.698500 Tempo Ocioso Médio da Amostra: 0.016985
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.396868 Tempo Ocioso Médio da Amostra: 0.013969
+Tempo Ocioso da Amostra: 1.616351 Tempo Ocioso Médio da Amostra: 0.016164
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.474194 Tempo Ocioso Médio da Amostra: 0.014742
+Tempo Ocioso da Amostra: 1.666722 Tempo Ocioso Médio da Amostra: 0.016667
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.408486 Tempo Ocioso Médio da Amostra: 0.014085
+Tempo Ocioso da Amostra: 1.179801 Tempo Ocioso Médio da Amostra: 0.011798
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.662380 Tempo Ocioso Médio da Amostra: 0.016624
+Tempo Ocioso da Amostra: 1.602476 Tempo Ocioso Médio da Amostra: 0.016025
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.708470 Tempo Ocioso Médio da Amostra: 0.017085
+Tempo Ocioso da Amostra: 1.326301 Tempo Ocioso Médio da Amostra: 0.013263
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.668825 Tempo Ocioso Médio da Amostra: 0.016688
+Tempo Ocioso da Amostra: 1.614839 Tempo Ocioso Médio da Amostra: 0.016148
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.399235 Tempo Ocioso Médio da Amostra: 0.013992
+Tempo Ocioso da Amostra: 1.592375 Tempo Ocioso Médio da Amostra: 0.015924
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.426245 Tempo Ocioso Médio da Amostra: 0.014262
+Tempo Ocioso da Amostra: 1.706631 Tempo Ocioso Médio da Amostra: 0.017066
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.567962 Tempo Ocioso Médio da Amostra: 0.015680
+Tempo Ocioso da Amostra: 1.725619 Tempo Ocioso Médio da Amostra: 0.017256
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.539156 Tempo Ocioso Médio da Amostra: 0.015392
+Tempo Ocioso da Amostra: 1.514723 Tempo Ocioso Médio da Amostra: 0.015147
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.469345 Tempo Ocioso Médio da Amostra: 0.014693
+Tempo Ocioso da Amostra: 1.525314 Tempo Ocioso Médio da Amostra: 0.015253
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.570263 Tempo Ocioso Médio da Amostra: 0.015703
+Tempo Ocioso da Amostra: 1.666021 Tempo Ocioso Médio da Amostra: 0.016660
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.726939 Tempo Ocioso Médio da Amostra: 0.017269
+Tempo Ocioso da Amostra: 1.583200 Tempo Ocioso Médio da Amostra: 0.015832
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.349871 Tempo Ocioso Médio da Amostra: 0.013499
+Tempo Ocioso da Amostra: 1.736100 Tempo Ocioso Médio da Amostra: 0.017361
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.622033 Tempo Ocioso Médio da Amostra: 0.016220
+Tempo Ocioso da Amostra: 1.552718 Tempo Ocioso Médio da Amostra: 0.015527
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.252417 Tempo Ocioso Médio da Amostra: 0.012524
+Tempo Ocioso da Amostra: 1.265150 Tempo Ocioso Médio da Amostra: 0.012652
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.315199 Tempo Ocioso Médio da Amostra: 0.013152
+Tempo Ocioso da Amostra: 1.548750 Tempo Ocioso Médio da Amostra: 0.015488
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.551691 Tempo Ocioso Médio da Amostra: 0.015517
+Tempo Ocioso da Amostra: 1.616010 Tempo Ocioso Médio da Amostra: 0.016160
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.614366 Tempo Ocioso Médio da Amostra: 0.016144
+Tempo Ocioso da Amostra: 1.196128 Tempo Ocioso Médio da Amostra: 0.011961
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.463842 Tempo Ocioso Médio da Amostra: 0.014638
+Tempo Ocioso da Amostra: 1.535751 Tempo Ocioso Médio da Amostra: 0.015358
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.187845 Tempo Ocioso Médio da Amostra: 0.011878
+Tempo Ocioso da Amostra: 1.689195 Tempo Ocioso Médio da Amostra: 0.016892
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.629323 Tempo Ocioso Médio da Amostra: 0.016293
+Tempo Ocioso da Amostra: 1.412717 Tempo Ocioso Médio da Amostra: 0.014127
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.332490 Tempo Ocioso Médio da Amostra: 0.013325
+Tempo Ocioso da Amostra: 1.603147 Tempo Ocioso Médio da Amostra: 0.016031
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.650463 Tempo Ocioso Médio da Amostra: 0.016505
+Tempo Ocioso da Amostra: 1.264224 Tempo Ocioso Médio da Amostra: 0.012642
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.261196 Tempo Ocioso Médio da Amostra: 0.012612
+Tempo Ocioso da Amostra: 1.485154 Tempo Ocioso Médio da Amostra: 0.014852
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.460814 Tempo Ocioso Médio da Amostra: 0.014608
+Tempo Ocioso da Amostra: 1.633691 Tempo Ocioso Médio da Amostra: 0.016337
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.616398 Tempo Ocioso Médio da Amostra: 0.016164
+Tempo Ocioso da Amostra: 1.476389 Tempo Ocioso Médio da Amostra: 0.014764
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.538546 Tempo Ocioso Médio da Amostra: 0.015385
+Tempo Ocioso da Amostra: 1.317117 Tempo Ocioso Médio da Amostra: 0.013171
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.628729 Tempo Ocioso Médio da Amostra: 0.016287
+Tempo Ocioso da Amostra: 1.474264 Tempo Ocioso Médio da Amostra: 0.014743
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.410185 Tempo Ocioso Médio da Amostra: 0.014102
+Tempo Ocioso da Amostra: 1.245588 Tempo Ocioso Médio da Amostra: 0.012456
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.746375 Tempo Ocioso Médio da Amostra: 0.017464
+Tempo Ocioso da Amostra: 1.453284 Tempo Ocioso Médio da Amostra: 0.014533
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.483233 Tempo Ocioso Médio da Amostra: 0.014832
+Tempo Ocioso da Amostra: 1.720204 Tempo Ocioso Médio da Amostra: 0.017202
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.712905 Tempo Ocioso Médio da Amostra: 0.017129
+Tempo Ocioso da Amostra: 1.734681 Tempo Ocioso Médio da Amostra: 0.017347
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.432900 Tempo Ocioso Médio da Amostra: 0.014329
+Tempo Ocioso da Amostra: 1.486710 Tempo Ocioso Médio da Amostra: 0.014867
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.583507 Tempo Ocioso Médio da Amostra: 0.015835
+Tempo Ocioso da Amostra: 1.325545 Tempo Ocioso Médio da Amostra: 0.013255
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.656187 Tempo Ocioso Médio da Amostra: 0.016562
+Tempo Ocioso da Amostra: 1.262231 Tempo Ocioso Médio da Amostra: 0.012622
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.758349 Tempo Ocioso Médio da Amostra: 0.017583
+Tempo Ocioso da Amostra: 1.698566 Tempo Ocioso Médio da Amostra: 0.016986
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.594509 Tempo Ocioso Médio da Amostra: 0.015945
+Tempo Ocioso da Amostra: 1.399827 Tempo Ocioso Médio da Amostra: 0.013998
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.531367 Tempo Ocioso Médio da Amostra: 0.015314
+Tempo Ocioso da Amostra: 1.627933 Tempo Ocioso Médio da Amostra: 0.016279
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.571367 Tempo Ocioso Médio da Amostra: 0.015714
+Tempo Ocioso da Amostra: 1.575607 Tempo Ocioso Médio da Amostra: 0.015756
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.436009 Tempo Ocioso Médio da Amostra: 0.014360
+Tempo Ocioso da Amostra: 1.461839 Tempo Ocioso Médio da Amostra: 0.014618
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.750248 Tempo Ocioso Médio da Amostra: 0.017502
+Tempo Ocioso da Amostra: 1.395476 Tempo Ocioso Médio da Amostra: 0.013955
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.454521 Tempo Ocioso Médio da Amostra: 0.014545
+Tempo Ocioso da Amostra: 1.531772 Tempo Ocioso Médio da Amostra: 0.015318
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.643520 Tempo Ocioso Médio da Amostra: 0.016435
+Tempo Ocioso da Amostra: 1.444414 Tempo Ocioso Médio da Amostra: 0.014444
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.426916 Tempo Ocioso Médio da Amostra: 0.014269
+Tempo Ocioso da Amostra: 1.479175 Tempo Ocioso Médio da Amostra: 0.014792
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.522609 Tempo Ocioso Médio da Amostra: 0.015226
+Tempo Ocioso da Amostra: 1.600901 Tempo Ocioso Médio da Amostra: 0.016009
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.562516 Tempo Ocioso Médio da Amostra: 0.015625
+Tempo Ocioso da Amostra: 1.715842 Tempo Ocioso Médio da Amostra: 0.017158
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.590304 Tempo Ocioso Médio da Amostra: 0.015903
+Tempo Ocioso da Amostra: 1.535831 Tempo Ocioso Médio da Amostra: 0.015358
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.687716 Tempo Ocioso Médio da Amostra: 0.016877
+Tempo Ocioso da Amostra: 1.478517 Tempo Ocioso Médio da Amostra: 0.014785
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.602126 Tempo Ocioso Médio da Amostra: 0.016021
+Tempo Ocioso da Amostra: 1.677371 Tempo Ocioso Médio da Amostra: 0.016774
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.514107 Tempo Ocioso Médio da Amostra: 0.015141
+Tempo Ocioso da Amostra: 1.504728 Tempo Ocioso Médio da Amostra: 0.015047
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.474047 Tempo Ocioso Médio da Amostra: 0.014740
+Tempo Ocioso da Amostra: 1.370652 Tempo Ocioso Médio da Amostra: 0.013707
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.577174 Tempo Ocioso Médio da Amostra: 0.015772
+Tempo Ocioso da Amostra: 1.743093 Tempo Ocioso Médio da Amostra: 0.017431
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.580423 Tempo Ocioso Médio da Amostra: 0.015804
+Tempo Ocioso da Amostra: 1.472824 Tempo Ocioso Médio da Amostra: 0.014728
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.769748 Tempo Ocioso Médio da Amostra: 0.017697
+Tempo Ocioso da Amostra: 1.660274 Tempo Ocioso Médio da Amostra: 0.016603
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.637423 Tempo Ocioso Médio da Amostra: 0.016374
+Tempo Ocioso da Amostra: 1.560949 Tempo Ocioso Médio da Amostra: 0.015609
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.430057 Tempo Ocioso Médio da Amostra: 0.014301
+Tempo Ocioso da Amostra: 1.511475 Tempo Ocioso Médio da Amostra: 0.015115
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.446793 Tempo Ocioso Médio da Amostra: 0.014468
+Tempo Ocioso da Amostra: 1.602676 Tempo Ocioso Médio da Amostra: 0.016027
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.422453 Tempo Ocioso Médio da Amostra: 0.014225
+Tempo Ocioso da Amostra: 1.371734 Tempo Ocioso Médio da Amostra: 0.013717
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.845807 Tempo Ocioso Médio da Amostra: 0.018458
+Tempo Ocioso da Amostra: 1.498585 Tempo Ocioso Médio da Amostra: 0.014986
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.344453 Tempo Ocioso Médio da Amostra: 0.013445
+Tempo Ocioso da Amostra: 1.623809 Tempo Ocioso Médio da Amostra: 0.016238
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.398354 Tempo Ocioso Médio da Amostra: 0.013984
+Tempo Ocioso da Amostra: 1.469914 Tempo Ocioso Médio da Amostra: 0.014699
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.555906 Tempo Ocioso Médio da Amostra: 0.015559
+Tempo Ocioso da Amostra: 1.529109 Tempo Ocioso Médio da Amostra: 0.015291
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.505390 Tempo Ocioso Médio da Amostra: 0.015054
+Tempo Ocioso da Amostra: 1.400390 Tempo Ocioso Médio da Amostra: 0.014004
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.715977 Tempo Ocioso Médio da Amostra: 0.017160
+Tempo Ocioso da Amostra: 1.579618 Tempo Ocioso Médio da Amostra: 0.015796
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.743532 Tempo Ocioso Médio da Amostra: 0.017435
+Tempo Ocioso da Amostra: 1.488299 Tempo Ocioso Médio da Amostra: 0.014883
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.653691 Tempo Ocioso Médio da Amostra: 0.016537
+Tempo Ocioso da Amostra: 1.526451 Tempo Ocioso Médio da Amostra: 0.015265
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.582801 Tempo Ocioso Médio da Amostra: 0.015828
+Tempo Ocioso da Amostra: 1.489864 Tempo Ocioso Médio da Amostra: 0.014899
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.564170 Tempo Ocioso Médio da Amostra: 0.015642
+Tempo Ocioso da Amostra: 1.594818 Tempo Ocioso Médio da Amostra: 0.015948
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.509782 Tempo Ocioso Médio da Amostra: 0.015098
+Tempo Ocioso da Amostra: 1.857380 Tempo Ocioso Médio da Amostra: 0.018574
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.577789 Tempo Ocioso Médio da Amostra: 0.015778
+Tempo Ocioso da Amostra: 1.597284 Tempo Ocioso Médio da Amostra: 0.015973
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.656067 Tempo Ocioso Médio da Amostra: 0.016561
+Tempo Ocioso da Amostra: 1.466550 Tempo Ocioso Médio da Amostra: 0.014666
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.638240 Tempo Ocioso Médio da Amostra: 0.016382
+Tempo Ocioso da Amostra: 1.338483 Tempo Ocioso Médio da Amostra: 0.013385
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.405123 Tempo Ocioso Médio da Amostra: 0.014051
+Tempo Ocioso da Amostra: 1.606184 Tempo Ocioso Médio da Amostra: 0.016062
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 1.512356 Tempo Ocioso Médio da Amostra: 0.015124
+Tempo Ocioso da Amostra: 1.603874 Tempo Ocioso Médio da Amostra: 0.016039
 
 
-Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)Tempo médio em atendimento: 0.000508	 Intervalo de confiança: (0.000451,0.000566)Tempo ocioso médio entre clientes: 0.015353	 Intervalo de confiança:(-0.011422,0.042127)
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000504	 Intervalo de confiança: (0.000448,0.000560)
+Tempo ocioso médio entre clientes: 0.015380	 Intervalo de confiança:(-0.012381,0.043140)
 
 		Simulador M/M/1
-Tempo		 Evento		 Cliente
 
-
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.297979 Tempo Ocioso Médio da Amostra: 0.002980
+Tempo Ocioso da Amostra: 0.467044 Tempo Ocioso Médio da Amostra: 0.004670
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.424360 Tempo Ocioso Médio da Amostra: 0.004244
+Tempo Ocioso da Amostra: 0.403459 Tempo Ocioso Médio da Amostra: 0.004035
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.389888 Tempo Ocioso Médio da Amostra: 0.003899
+Tempo Ocioso da Amostra: 0.299759 Tempo Ocioso Médio da Amostra: 0.002998
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.373894 Tempo Ocioso Médio da Amostra: 0.003739
+Tempo Ocioso da Amostra: 0.376841 Tempo Ocioso Médio da Amostra: 0.003768
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.481822 Tempo Ocioso Médio da Amostra: 0.004818
+Tempo Ocioso da Amostra: 0.356391 Tempo Ocioso Médio da Amostra: 0.003564
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.331986 Tempo Ocioso Médio da Amostra: 0.003320
+Tempo Ocioso da Amostra: 0.336159 Tempo Ocioso Médio da Amostra: 0.003362
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.349717 Tempo Ocioso Médio da Amostra: 0.003497
+Tempo Ocioso da Amostra: 0.449290 Tempo Ocioso Médio da Amostra: 0.004493
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.420975 Tempo Ocioso Médio da Amostra: 0.004210
+Tempo Ocioso da Amostra: 0.365520 Tempo Ocioso Médio da Amostra: 0.003655
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.363012 Tempo Ocioso Médio da Amostra: 0.003630
+Tempo Ocioso da Amostra: 0.393990 Tempo Ocioso Médio da Amostra: 0.003940
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.341528 Tempo Ocioso Médio da Amostra: 0.003415
+Tempo Ocioso da Amostra: 0.396699 Tempo Ocioso Médio da Amostra: 0.003967
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.306315 Tempo Ocioso Médio da Amostra: 0.003063
+Tempo Ocioso da Amostra: 0.359479 Tempo Ocioso Médio da Amostra: 0.003595
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.310119 Tempo Ocioso Médio da Amostra: 0.003101
+Tempo Ocioso da Amostra: 0.317933 Tempo Ocioso Médio da Amostra: 0.003179
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.380519 Tempo Ocioso Médio da Amostra: 0.003805
+Tempo Ocioso da Amostra: 0.455916 Tempo Ocioso Médio da Amostra: 0.004559
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.370568 Tempo Ocioso Médio da Amostra: 0.003706
+Tempo Ocioso da Amostra: 0.371381 Tempo Ocioso Médio da Amostra: 0.003714
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.405505 Tempo Ocioso Médio da Amostra: 0.004055
+Tempo Ocioso da Amostra: 0.403642 Tempo Ocioso Médio da Amostra: 0.004036
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.501548 Tempo Ocioso Médio da Amostra: 0.005015
+Tempo Ocioso da Amostra: 0.317632 Tempo Ocioso Médio da Amostra: 0.003176
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.396280 Tempo Ocioso Médio da Amostra: 0.003963
+Tempo Ocioso da Amostra: 0.386662 Tempo Ocioso Médio da Amostra: 0.003867
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.377593 Tempo Ocioso Médio da Amostra: 0.003776
+Tempo Ocioso da Amostra: 0.359106 Tempo Ocioso Médio da Amostra: 0.003591
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.441871 Tempo Ocioso Médio da Amostra: 0.004419
+Tempo Ocioso da Amostra: 0.350811 Tempo Ocioso Médio da Amostra: 0.003508
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.374947 Tempo Ocioso Médio da Amostra: 0.003749
+Tempo Ocioso da Amostra: 0.312896 Tempo Ocioso Médio da Amostra: 0.003129
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.407075 Tempo Ocioso Médio da Amostra: 0.004071
+Tempo Ocioso da Amostra: 0.367787 Tempo Ocioso Médio da Amostra: 0.003678
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.459565 Tempo Ocioso Médio da Amostra: 0.004596
+Tempo Ocioso da Amostra: 0.349927 Tempo Ocioso Médio da Amostra: 0.003499
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.306724 Tempo Ocioso Médio da Amostra: 0.003067
+Tempo Ocioso da Amostra: 0.437993 Tempo Ocioso Médio da Amostra: 0.004380
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.428108 Tempo Ocioso Médio da Amostra: 0.004281
+Tempo Ocioso da Amostra: 0.336629 Tempo Ocioso Médio da Amostra: 0.003366
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.414393 Tempo Ocioso Médio da Amostra: 0.004144
+Tempo Ocioso da Amostra: 0.336152 Tempo Ocioso Médio da Amostra: 0.003362
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.379101 Tempo Ocioso Médio da Amostra: 0.003791
+Tempo Ocioso da Amostra: 0.387565 Tempo Ocioso Médio da Amostra: 0.003876
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.365441 Tempo Ocioso Médio da Amostra: 0.003654
+Tempo Ocioso da Amostra: 0.358846 Tempo Ocioso Médio da Amostra: 0.003588
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.368103 Tempo Ocioso Médio da Amostra: 0.003681
+Tempo Ocioso da Amostra: 0.351196 Tempo Ocioso Médio da Amostra: 0.003512
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.356195 Tempo Ocioso Médio da Amostra: 0.003562
+Tempo Ocioso da Amostra: 0.432208 Tempo Ocioso Médio da Amostra: 0.004322
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.389607 Tempo Ocioso Médio da Amostra: 0.003896
+Tempo Ocioso da Amostra: 0.360692 Tempo Ocioso Médio da Amostra: 0.003607
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.381112 Tempo Ocioso Médio da Amostra: 0.003811
+Tempo Ocioso da Amostra: 0.376180 Tempo Ocioso Médio da Amostra: 0.003762
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.385391 Tempo Ocioso Médio da Amostra: 0.003854
+Tempo Ocioso da Amostra: 0.345877 Tempo Ocioso Médio da Amostra: 0.003459
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.411202 Tempo Ocioso Médio da Amostra: 0.004112
+Tempo Ocioso da Amostra: 0.358375 Tempo Ocioso Médio da Amostra: 0.003584
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.370810 Tempo Ocioso Médio da Amostra: 0.003708
+Tempo Ocioso da Amostra: 0.365571 Tempo Ocioso Médio da Amostra: 0.003656
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.375907 Tempo Ocioso Médio da Amostra: 0.003759
+Tempo Ocioso da Amostra: 0.344380 Tempo Ocioso Médio da Amostra: 0.003444
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.361211 Tempo Ocioso Médio da Amostra: 0.003612
+Tempo Ocioso da Amostra: 0.331644 Tempo Ocioso Médio da Amostra: 0.003316
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.307233 Tempo Ocioso Médio da Amostra: 0.003072
+Tempo Ocioso da Amostra: 0.391976 Tempo Ocioso Médio da Amostra: 0.003920
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.379323 Tempo Ocioso Médio da Amostra: 0.003793
+Tempo Ocioso da Amostra: 0.347487 Tempo Ocioso Médio da Amostra: 0.003475
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.380452 Tempo Ocioso Médio da Amostra: 0.003805
+Tempo Ocioso da Amostra: 0.452532 Tempo Ocioso Médio da Amostra: 0.004525
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.346264 Tempo Ocioso Médio da Amostra: 0.003463
+Tempo Ocioso da Amostra: 0.396296 Tempo Ocioso Médio da Amostra: 0.003963
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.430805 Tempo Ocioso Médio da Amostra: 0.004308
+Tempo Ocioso da Amostra: 0.363489 Tempo Ocioso Médio da Amostra: 0.003635
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.309490 Tempo Ocioso Médio da Amostra: 0.003095
+Tempo Ocioso da Amostra: 0.321662 Tempo Ocioso Médio da Amostra: 0.003217
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.397865 Tempo Ocioso Médio da Amostra: 0.003979
+Tempo Ocioso da Amostra: 0.374316 Tempo Ocioso Médio da Amostra: 0.003743
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.353637 Tempo Ocioso Médio da Amostra: 0.003536
+Tempo Ocioso da Amostra: 0.369539 Tempo Ocioso Médio da Amostra: 0.003695
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.402806 Tempo Ocioso Médio da Amostra: 0.004028
+Tempo Ocioso da Amostra: 0.379766 Tempo Ocioso Médio da Amostra: 0.003798
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.379440 Tempo Ocioso Médio da Amostra: 0.003794
+Tempo Ocioso da Amostra: 0.441348 Tempo Ocioso Médio da Amostra: 0.004413
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.329494 Tempo Ocioso Médio da Amostra: 0.003295
+Tempo Ocioso da Amostra: 0.413854 Tempo Ocioso Médio da Amostra: 0.004139
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.417365 Tempo Ocioso Médio da Amostra: 0.004174
+Tempo Ocioso da Amostra: 0.367794 Tempo Ocioso Médio da Amostra: 0.003678
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.400850 Tempo Ocioso Médio da Amostra: 0.004008
+Tempo Ocioso da Amostra: 0.404006 Tempo Ocioso Médio da Amostra: 0.004040
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.401659 Tempo Ocioso Médio da Amostra: 0.004017
+Tempo Ocioso da Amostra: 0.369627 Tempo Ocioso Médio da Amostra: 0.003696
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.368084 Tempo Ocioso Médio da Amostra: 0.003681
+Tempo Ocioso da Amostra: 0.343485 Tempo Ocioso Médio da Amostra: 0.003435
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.389533 Tempo Ocioso Médio da Amostra: 0.003895
+Tempo Ocioso da Amostra: 0.398329 Tempo Ocioso Médio da Amostra: 0.003983
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.421200 Tempo Ocioso Médio da Amostra: 0.004212
+Tempo Ocioso da Amostra: 0.385523 Tempo Ocioso Médio da Amostra: 0.003855
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.359393 Tempo Ocioso Médio da Amostra: 0.003594
+Tempo Ocioso da Amostra: 0.399324 Tempo Ocioso Médio da Amostra: 0.003993
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.362050 Tempo Ocioso Médio da Amostra: 0.003621
+Tempo Ocioso da Amostra: 0.456784 Tempo Ocioso Médio da Amostra: 0.004568
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.339441 Tempo Ocioso Médio da Amostra: 0.003394
+Tempo Ocioso da Amostra: 0.340316 Tempo Ocioso Médio da Amostra: 0.003403
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.407611 Tempo Ocioso Médio da Amostra: 0.004076
+Tempo Ocioso da Amostra: 0.451869 Tempo Ocioso Médio da Amostra: 0.004519
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.383476 Tempo Ocioso Médio da Amostra: 0.003835
+Tempo Ocioso da Amostra: 0.360856 Tempo Ocioso Médio da Amostra: 0.003609
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.371493 Tempo Ocioso Médio da Amostra: 0.003715
+Tempo Ocioso da Amostra: 0.383505 Tempo Ocioso Médio da Amostra: 0.003835
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.431432 Tempo Ocioso Médio da Amostra: 0.004314
+Tempo Ocioso da Amostra: 0.349497 Tempo Ocioso Médio da Amostra: 0.003495
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.402985 Tempo Ocioso Médio da Amostra: 0.004030
+Tempo Ocioso da Amostra: 0.376602 Tempo Ocioso Médio da Amostra: 0.003766
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.410436 Tempo Ocioso Médio da Amostra: 0.004104
+Tempo Ocioso da Amostra: 0.439537 Tempo Ocioso Médio da Amostra: 0.004395
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.458009 Tempo Ocioso Médio da Amostra: 0.004580
+Tempo Ocioso da Amostra: 0.400041 Tempo Ocioso Médio da Amostra: 0.004000
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.397158 Tempo Ocioso Médio da Amostra: 0.003972
+Tempo Ocioso da Amostra: 0.360958 Tempo Ocioso Médio da Amostra: 0.003610
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.419239 Tempo Ocioso Médio da Amostra: 0.004192
+Tempo Ocioso da Amostra: 0.418633 Tempo Ocioso Médio da Amostra: 0.004186
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.358406 Tempo Ocioso Médio da Amostra: 0.003584
+Tempo Ocioso da Amostra: 0.401539 Tempo Ocioso Médio da Amostra: 0.004015
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.347928 Tempo Ocioso Médio da Amostra: 0.003479
+Tempo Ocioso da Amostra: 0.394544 Tempo Ocioso Médio da Amostra: 0.003945
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.415374 Tempo Ocioso Médio da Amostra: 0.004154
+Tempo Ocioso da Amostra: 0.373149 Tempo Ocioso Médio da Amostra: 0.003731
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.417848 Tempo Ocioso Médio da Amostra: 0.004178
+Tempo Ocioso da Amostra: 0.409732 Tempo Ocioso Médio da Amostra: 0.004097
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.362858 Tempo Ocioso Médio da Amostra: 0.003629
+Tempo Ocioso da Amostra: 0.417617 Tempo Ocioso Médio da Amostra: 0.004176
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.393630 Tempo Ocioso Médio da Amostra: 0.003936
+Tempo Ocioso da Amostra: 0.410698 Tempo Ocioso Médio da Amostra: 0.004107
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.337338 Tempo Ocioso Médio da Amostra: 0.003373
+Tempo Ocioso da Amostra: 0.387213 Tempo Ocioso Médio da Amostra: 0.003872
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.340966 Tempo Ocioso Médio da Amostra: 0.003410
+Tempo Ocioso da Amostra: 0.373022 Tempo Ocioso Médio da Amostra: 0.003730
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.383650 Tempo Ocioso Médio da Amostra: 0.003837
+Tempo Ocioso da Amostra: 0.433216 Tempo Ocioso Médio da Amostra: 0.004332
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.337528 Tempo Ocioso Médio da Amostra: 0.003375
+Tempo Ocioso da Amostra: 0.364094 Tempo Ocioso Médio da Amostra: 0.003641
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.392660 Tempo Ocioso Médio da Amostra: 0.003927
+Tempo Ocioso da Amostra: 0.378764 Tempo Ocioso Médio da Amostra: 0.003788
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.458593 Tempo Ocioso Médio da Amostra: 0.004586
+Tempo Ocioso da Amostra: 0.367130 Tempo Ocioso Médio da Amostra: 0.003671
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.378546 Tempo Ocioso Médio da Amostra: 0.003785
+Tempo Ocioso da Amostra: 0.419829 Tempo Ocioso Médio da Amostra: 0.004198
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.402285 Tempo Ocioso Médio da Amostra: 0.004023
+Tempo Ocioso da Amostra: 0.376458 Tempo Ocioso Médio da Amostra: 0.003765
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.335652 Tempo Ocioso Médio da Amostra: 0.003357
+Tempo Ocioso da Amostra: 0.439225 Tempo Ocioso Médio da Amostra: 0.004392
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.378186 Tempo Ocioso Médio da Amostra: 0.003782
+Tempo Ocioso da Amostra: 0.383752 Tempo Ocioso Médio da Amostra: 0.003838
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.359462 Tempo Ocioso Médio da Amostra: 0.003595
+Tempo Ocioso da Amostra: 0.378845 Tempo Ocioso Médio da Amostra: 0.003788
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.405454 Tempo Ocioso Médio da Amostra: 0.004055
+Tempo Ocioso da Amostra: 0.447373 Tempo Ocioso Médio da Amostra: 0.004474
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.405754 Tempo Ocioso Médio da Amostra: 0.004058
+Tempo Ocioso da Amostra: 0.361550 Tempo Ocioso Médio da Amostra: 0.003616
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.363424 Tempo Ocioso Médio da Amostra: 0.003634
+Tempo Ocioso da Amostra: 0.406073 Tempo Ocioso Médio da Amostra: 0.004061
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.385065 Tempo Ocioso Médio da Amostra: 0.003851
+Tempo Ocioso da Amostra: 0.403792 Tempo Ocioso Médio da Amostra: 0.004038
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.425129 Tempo Ocioso Médio da Amostra: 0.004251
+Tempo Ocioso da Amostra: 0.374264 Tempo Ocioso Médio da Amostra: 0.003743
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.448758 Tempo Ocioso Médio da Amostra: 0.004488
+Tempo Ocioso da Amostra: 0.387293 Tempo Ocioso Médio da Amostra: 0.003873
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.466276 Tempo Ocioso Médio da Amostra: 0.004663
+Tempo Ocioso da Amostra: 0.365955 Tempo Ocioso Médio da Amostra: 0.003660
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.376551 Tempo Ocioso Médio da Amostra: 0.003766
+Tempo Ocioso da Amostra: 0.309948 Tempo Ocioso Médio da Amostra: 0.003099
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.354744 Tempo Ocioso Médio da Amostra: 0.003547
+Tempo Ocioso da Amostra: 0.442671 Tempo Ocioso Médio da Amostra: 0.004427
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.330360 Tempo Ocioso Médio da Amostra: 0.003304
+Tempo Ocioso da Amostra: 0.354197 Tempo Ocioso Médio da Amostra: 0.003542
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.420677 Tempo Ocioso Médio da Amostra: 0.004207
+Tempo Ocioso da Amostra: 0.339017 Tempo Ocioso Médio da Amostra: 0.003390
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.337507 Tempo Ocioso Médio da Amostra: 0.003375
+Tempo Ocioso da Amostra: 0.344344 Tempo Ocioso Médio da Amostra: 0.003443
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.370663 Tempo Ocioso Médio da Amostra: 0.003707
+Tempo Ocioso da Amostra: 0.383328 Tempo Ocioso Médio da Amostra: 0.003833
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.332377 Tempo Ocioso Médio da Amostra: 0.003324
+Tempo Ocioso da Amostra: 0.340703 Tempo Ocioso Médio da Amostra: 0.003407
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.394944 Tempo Ocioso Médio da Amostra: 0.003949
+Tempo Ocioso da Amostra: 0.370881 Tempo Ocioso Médio da Amostra: 0.003709
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.345876 Tempo Ocioso Médio da Amostra: 0.003459
+Tempo Ocioso da Amostra: 0.401264 Tempo Ocioso Médio da Amostra: 0.004013
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.377464 Tempo Ocioso Médio da Amostra: 0.003775
+Tempo Ocioso da Amostra: 0.437971 Tempo Ocioso Médio da Amostra: 0.004380
 
 
 Tempo de Espera Médio da Amostra: 0.000000
 Tempo de Atendimento Médio da Amostra: 0.00
-Tempo Ocioso da Amostra: 0.413007 Tempo Ocioso Médio da Amostra: 0.004130
+Tempo Ocioso da Amostra: 0.407130 Tempo Ocioso Médio da Amostra: 0.004071
 
 
-Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)Tempo médio em atendimento: 0.000494	 Intervalo de confiança: (0.000438,0.000550)Tempo ocioso médio entre clientes: 0.003831	 Intervalo de confiança:(-0.003976,0.011639)
+Tempo médio na fila: 0.000000 	 Intervalo de confiança: (0.000000,0.000000)
+Tempo médio em atendimento: 0.000497	 Intervalo de confiança: (0.000440,0.000553)
+Tempo ocioso médio entre clientes: 0.003817	 Intervalo de confiança:(-0.003458,0.011091)
 
 Lambda inputTotal: 49778.689076 / Lambda outputTotal: 239.945378
-Lambda inputDuranteIperf: 102063.948276 / Lambda outputDuranteIperf: 218.586207
+Lambda inputDuranteIperf: 101191.606838 / Lambda outputDuranteIperf: 216.717949
 Lambda inputSemIperf: 64.867769 / Lambda outputSemIperf: 260.727273
